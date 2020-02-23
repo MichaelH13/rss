@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		DC17384724033AE7007781EE /* Logger.swift in Sources */ = {isa = PBXBuildFile; fileRef = DC17384624033AE7007781EE /* Logger.swift */; };
 		DCFC35EC240334FA0009F28F /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = DCFC35EB240334FA0009F28F /* AppDelegate.swift */; };
 		DCFC35EE240334FA0009F28F /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = DCFC35ED240334FA0009F28F /* SceneDelegate.swift */; };
 		DCFC35F0240334FA0009F28F /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = DCFC35EF240334FA0009F28F /* ViewController.swift */; };
@@ -35,6 +36,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		DC17384624033AE7007781EE /* Logger.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Logger.swift; sourceTree = "<group>"; };
 		DCFC35E8240334FA0009F28F /* rss.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = rss.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		DCFC35EB240334FA0009F28F /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		DCFC35ED240334FA0009F28F /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -311,6 +313,7 @@
 				DCFC35F0240334FA0009F28F /* ViewController.swift in Sources */,
 				DCFC35EC240334FA0009F28F /* AppDelegate.swift in Sources */,
 				DCFC35EE240334FA0009F28F /* SceneDelegate.swift in Sources */,
+				DC17384724033AE7007781EE /* Logger.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
