@@ -1,0 +1,18 @@
+# Base borrowed from:
+# https://raw.githubusercontent.com/raywenderlich/swift-algorithm-club/master/.swiftlint.yml
+cyclomatic_complexity: 8
+file_length: 550
+function_body_length: 50
+function_parameter_count: 4
+line_length:
+  error: 200
+  warning: 150
+type_body_length: 300
+
+identifier_name:
+  excluded:
+    - id
+
+opt_in_rules:
+- empty_count
+
