@@ -19,8 +19,8 @@
 		DCFC35F3240334FA0009F28F /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = DCFC35F1240334FA0009F28F /* Main.storyboard */; };
 		DCFC35F5240334FC0009F28F /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = DCFC35F4240334FC0009F28F /* Assets.xcassets */; };
 		DCFC35F8240334FC0009F28F /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = DCFC35F6240334FC0009F28F /* LaunchScreen.storyboard */; };
-		DCFC3603240334FC0009F28F /* rssTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = DCFC3602240334FC0009F28F /* rssTests.swift */; };
-		DCFC360E240334FC0009F28F /* rssUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = DCFC360D240334FC0009F28F /* rssUITests.swift */; };
+		DCFC3603240334FC0009F28F /* RssTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = DCFC3602240334FC0009F28F /* RssTests.swift */; };
+		DCFC360E240334FC0009F28F /* RssUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = DCFC360D240334FC0009F28F /* RssUITests.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -56,10 +56,10 @@
 		DCFC35F7240334FC0009F28F /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		DCFC35F9240334FC0009F28F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		DCFC35FE240334FC0009F28F /* rssTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = rssTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
-		DCFC3602240334FC0009F28F /* rssTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = rssTests.swift; sourceTree = "<group>"; };
+		DCFC3602240334FC0009F28F /* RssTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RssTests.swift; sourceTree = "<group>"; };
 		DCFC3604240334FC0009F28F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		DCFC3609240334FC0009F28F /* rssUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = rssUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
-		DCFC360D240334FC0009F28F /* rssUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = rssUITests.swift; sourceTree = "<group>"; };
+		DCFC360D240334FC0009F28F /* RssUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RssUITests.swift; sourceTree = "<group>"; };
 		DCFC360F240334FC0009F28F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -179,7 +179,7 @@
 		DCFC3601240334FC0009F28F /* rssTests */ = {
 			isa = PBXGroup;
 			children = (
-				DCFC3602240334FC0009F28F /* rssTests.swift */,
+				DCFC3602240334FC0009F28F /* RssTests.swift */,
 				DCFC3604240334FC0009F28F /* Info.plist */,
 			);
 			path = rssTests;
@@ -188,7 +188,7 @@
 		DCFC360C240334FC0009F28F /* rssUITests */ = {
 			isa = PBXGroup;
 			children = (
-				DCFC360D240334FC0009F28F /* rssUITests.swift */,
+				DCFC360D240334FC0009F28F /* RssUITests.swift */,
 				DCFC360F240334FC0009F28F /* Info.plist */,
 			);
 			path = rssUITests;
@@ -363,7 +363,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				DCFC3603240334FC0009F28F /* rssTests.swift in Sources */,
+				DCFC3603240334FC0009F28F /* RssTests.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -371,7 +371,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				DCFC360E240334FC0009F28F /* rssUITests.swift in Sources */,
+				DCFC360E240334FC0009F28F /* RssUITests.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
