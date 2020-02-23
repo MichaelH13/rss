@@ -76,6 +76,49 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		DC173840240337AE007781EE /* View */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = View;
+			sourceTree = "<group>";
+		};
+		DC173841240337B6007781EE /* ViewModel */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = ViewModel;
+			sourceTree = "<group>";
+		};
+		DC173842240337BD007781EE /* Model */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Model;
+			sourceTree = "<group>";
+		};
+		DC173843240338AF007781EE /* Client */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Client;
+			sourceTree = "<group>";
+		};
+		DC173844240338C0007781EE /* Extensions */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Extensions;
+			sourceTree = "<group>";
+		};
+		DC17384524033A81007781EE /* Utilities */ = {
+			isa = PBXGroup;
+			children = (
+				DC17384624033AE7007781EE /* Logger.swift */,
+			);
+			path = Utilities;
+			sourceTree = "<group>";
+		};
 		DCFC35DF240334FA0009F28F = {
 			isa = PBXGroup;
 			children = (
@@ -99,6 +142,12 @@
 		DCFC35EA240334FA0009F28F /* rss */ = {
 			isa = PBXGroup;
 			children = (
+				DC173843240338AF007781EE /* Client */,
+				DC173844240338C0007781EE /* Extensions */,
+				DC173842240337BD007781EE /* Model */,
+				DC17384524033A81007781EE /* Utilities */,
+				DC173840240337AE007781EE /* View */,
+				DC173841240337B6007781EE /* ViewModel */,
 				DCFC35EB240334FA0009F28F /* AppDelegate.swift */,
 				DCFC35ED240334FA0009F28F /* SceneDelegate.swift */,
 				DCFC35EF240334FA0009F28F /* ViewController.swift */,
