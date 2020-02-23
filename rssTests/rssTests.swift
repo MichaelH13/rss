@@ -1,15 +1,11 @@
 //
-//  rssTests.swift
-//  rssTests
-//
-//  Created by Circle Media Labs Inc on 2/23/20.
 //  Copyright © 2020 Objective Swift Inc. All rights reserved.
 //
 
 import XCTest
 @testable import rss
 
-class rssTests: XCTestCase {
+class RssTests: XCTestCase {
 
     override func setUp() {
         // Put setup code here. This method is called before the invocation of each test method in the class.
