@@ -5,26 +5,62 @@
 import XCTest
 @testable import rss
 
+enum JsonFile: String, CaseIterable {
+    case valid = "Valid"
+    case invalid = "Invalid"
+    case missing = "Missing"
+}
+
 class RssTests: XCTestCase {
 
-    override func setUp() {
-        // Put setup code here. This method is called before the invocation of each test method in the class.
+    func testAlbumTitle() {
+        let response = loadResponse(.valid)
+        let title = response?.feed?.title
+        XCTAssert(title == "Top Albums", "Feed title is incorrect or missing: \(String(describing: title))")
     }
 
-    override func tearDown() {
-        // Put teardown code here. This method is called after the invocation of each test method in the class.
+    func testAlbumsExist() {
+        let expectedAlbumTotal = 100
+        let response = loadResponse(.valid)
+        let albumsExist = response?.feed?.albums?.count == expectedAlbumTotal
+        XCTAssert(albumsExist, "Albums do not total \(expectedAlbumTotal)")
     }
+}
 
-    func testExample() {
-        // This is an example of a functional test case.
-        // Use XCTAssert and related functions to verify your tests produce the correct results.
-    }
+// MARK: - Helpers
 
-    func testPerformanceExample() {
-        // This is an example of a performance test case.
-        self.measure {
-            // Put the code you want to measure the time of here.
+extension RssTests {
+
+    private func loadResponse(_ jsonFile: JsonFile = .valid) -> FeedResponse? {
+
+        let bundle = Bundle(for: type(of: self))
+        guard let url = bundle.url(forResource: jsonFile.rawValue, withExtension: "json"),
+            let jsonData = try? Data(contentsOf: url) else {
+
+                let response = JsonFile(rawValue: jsonFile.rawValue)
+                if let response = response {
+                    switch response {
+                    case .valid:
+                        XCTFail("Valid response detected as invalid: \(jsonFile.rawValue)")
+                    case .invalid, .missing:
+                        // Invalid detected as invalid.
+                        break
+                    }
+                } else {
+                    XCTFail("Unknown fileName: \(jsonFile.rawValue)")
+                }
+                return nil
         }
-    }
 
+        let decoder = JSONDecoder()
+
+        do {
+            let response = try decoder.decode(FeedResponse.self, from: jsonData)
+            return response
+        } catch let error {
+            XCTFail(error.localizedDescription)
+        }
+
+        return nil
+    }
 }

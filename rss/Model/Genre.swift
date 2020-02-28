@@ -1,9 +1,14 @@
 import Foundation
 
-struct Genres: Codable {
-	let genreId: String?
+final class Genre: Codable {
+
+    // MARK: - Properties
+
+    let genreId: String?
 	let name: String?
 	let url: String?
+
+    // MARK: - Codable
 
 	enum CodingKeys: String, CodingKey {
 		case genreId
@@ -17,5 +22,4 @@ struct Genres: Codable {
 		name = try values.decodeIfPresent(String.self, forKey: .name)
 		url = try values.decodeIfPresent(String.self, forKey: .url)
 	}
-
 }

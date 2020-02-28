@@ -1,6 +1,6 @@
 import Foundation
 
-struct Feed: Codable {
+final class Feed: Codable {
 	let title: String?
 	let id: String?
 	let author: Author?
@@ -8,17 +8,19 @@ struct Feed: Codable {
 	let country: String?
 	let icon: String?
 	let updated: String?
-	let results: [Results]?
+	let albums: [Album]?
+
+    // MARK: - Codable
 
 	enum CodingKeys: String, CodingKey {
-		case title
-		case id
-		case author
-		case copyright
-		case country
-		case icon
-		case updated
-		case results
+		case title = "title"
+		case id = "id"
+		case author = "author"
+		case copyright = "copyright"
+		case country = "country"
+		case icon = "icon"
+		case updated = "updated"
+		case albums = "results"
 	}
 
 	init(from decoder: Decoder) throws {
@@ -30,7 +32,6 @@ struct Feed: Codable {
 		country = try values.decodeIfPresent(String.self, forKey: .country)
 		icon = try values.decodeIfPresent(String.self, forKey: .icon)
 		updated = try values.decodeIfPresent(String.self, forKey: .updated)
-		results = try values.decodeIfPresent([Results].self, forKey: .results)
+		albums = try values.decodeIfPresent([Album].self, forKey: .albums)
 	}
-
 }

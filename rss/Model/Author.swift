@@ -1,8 +1,14 @@
 import Foundation
 
-struct Author: Codable {
-	let name: String?
-	let uri: String?
+final class Author: Codable {
+
+    // MARK: - Properties
+
+    let name: String?
+
+    let uri: String?
+
+    // MARK: - Codable
 
 	enum CodingKeys: String, CodingKey {
 		case name
@@ -14,5 +20,4 @@ struct Author: Codable {
 		name = try values.decodeIfPresent(String.self, forKey: .name)
 		uri = try values.decodeIfPresent(String.self, forKey: .uri)
 	}
-
 }

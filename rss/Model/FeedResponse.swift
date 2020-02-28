@@ -1,7 +1,12 @@
 import Foundation
 
-struct FeedResponse: Codable {
-	let feed: Feed?
+final class FeedResponse: Codable {
+
+    // MARK: - Properties
+
+    let feed: Feed?
+
+    // MARK: - Codable
 
 	enum CodingKeys: String, CodingKey {
 		case feed
@@ -11,5 +16,4 @@ struct FeedResponse: Codable {
 		let values = try decoder.container(keyedBy: CodingKeys.self)
 		feed = try values.decodeIfPresent(Feed.self, forKey: .feed)
 	}
-
 }
