@@ -1,0 +1,3554 @@
+
+  "feed":{
+    "title":"Top Albums",
+    "id":"https://rss.itunes.apple.com/api/v1/us/itunes-music/top-albums/all/100/non-explicit.json",
+    "author":{
+      "name":"iTunes Store",
+      "uri":"http://wwww.apple.com/us/itunes/"
+    },
+    "links":[
+      {
+        "self":"https://rss.itunes.apple.com/api/v1/us/itunes-music/top-albums/all/100/non-explicit.json"
+      },
+      {
+        "alternate":"https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewTop?genreId=34\\u{0026}popId=11\\u{0026}app=itunes"
+      }
+    ],
+    "copyright":"Copyright 2018 Apple Inc. Alle Rechte vorbehalten.",
+    "country":"us",
+    "icon":"http://itunes.apple.com/favicon.ico",
+    "updated":"2020-02-23T01:56:24.000-08:00",
+    "results":[
+      {
+        "artistName":"BTS",
+        "id":"1499290546",
+        "releaseDate":"2020-02-21",
+        "name":"MAP OF THE SOUL : 7",
+        "kind":"album",
+        "copyright":"℗ 2020 Bighit Entertainment",
+        "artistId":"883131348",
+        "artistUrl":"https://music.apple.com/us/artist/bts/883131348?app=itunes",
+        "artworkUrl100":"https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/92/5f/58/925f5872-1365-2bae-12d9-face15cb97b5/195081034713.jpg/200x200bb.png",
+        "genres":[
+          {
+            "genreId":"51",
+            "name":"K-Pop",
+            "url":"https://itunes.apple.com/us/genre/id51"
+          },
+          {
+            "genreId":"34",
+            "name":"Music",
+            "url":"https://itunes.apple.com/us/genre/id34"
+          },
+          {
+            "genreId":"14",
+            "name":"Pop",
+            "url":"https://itunes.apple.com/us/genre/id14"
+          }
+        ],
+        "url":"https://music.apple.com/us/album/map-of-the-soul-7/1499290546?app=itunes"
+      },
+      {
+        "artistName":"Ozzy Osbourne",
+        "id":"1493922560",
+        "releaseDate":"2020-02-21",
+        "name":"Ordinary Man",
+        "kind":"album",
+        "copyright":"℗ 2020 Epic Records, a division of Sony Music Entertainment",
+        "artistId":"886834",
+        "artistUrl":"https://music.apple.com/us/artist/ozzy-osbourne/886834?app=itunes",
+        "artworkUrl100":"https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/82/9c/da/829cdafd-5b7e-4fe8-6053-a7ee8f8b335f/886448148920.jpg/200x200bb.png",
+        "genres":[
+          {
+            "genreId":"1153",
+            "name":"Metal",
+            "url":"https://itunes.apple.com/us/genre/id1153"
+          },
+          {
+            "genreId":"34",
+            "name":"Music",
+            "url":"https://itunes.apple.com/us/genre/id34"
+          },
+          {
+            "genreId":"21",
+            "name":"Rock",
+            "url":"https://itunes.apple.com/us/genre/id21"
+          }
+        ],
+        "url":"https://music.apple.com/us/album/ordinary-man/1493922560?app=itunes"
+      },
+      {
+        "artistName":"Various Artists",
+        "id":"1481414042",
+        "releaseDate":"2019-11-15",
+        "name":"Frozen 2 (Original Motion Picture Soundtrack)",
+        "kind":"album",
+        "copyright":"℗ 2019 Walt Disney Records",
+        "artistId":"36270",
+        "artistUrl":"https://music.apple.com/us/artist/various-artists/36270?app=itunes",
+        "artworkUrl100":"https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/56/33/14/56331415-1036-71f5-a4ec-ec4e1065f69b/19UMGIM88564.rgb.jpg/200x200bb.png",
+        "genres":[
+          {
+            "genreId":"16",
+            "name":"Soundtrack",
+            "url":"https://itunes.apple.com/us/genre/id16"
+          },
+          {
+            "genreId":"34",
+            "name":"Music",
+            "url":"https://itunes.apple.com/us/genre/id34"
+          }
+        ],
+        "url":"https://music.apple.com/us/album/frozen-2-original-motion-picture-soundtrack/1481414042?app=itunes"
+      },
+      {
+        "artistName":"Justin Bieber",
+        "id":"1496639180",
+        "releaseDate":"2020-02-14",
+        "name":"Changes",
+        "kind":"album",
+        "copyright":"℗ 2020 Def Jam Recordings, a division of UMG Recordings, Inc.",
+        "artistId":"320569549",
+        "artistUrl":"https://music.apple.com/us/artist/justin-bieber/320569549?app=itunes",
+        "artworkUrl100":"https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/49/c1/04/49c10497-421b-5480-0e88-2b1b9c7b038c/20UMGIM03126.rgb.jpg/200x200bb.png",
+        "genres":[
+          {
+            "genreId":"14",
+            "name":"Pop",
+            "url":"https://itunes.apple.com/us/genre/id14"
+          },
+          {
+            "genreId":"34",
+            "name":"Music",
+            "url":"https://itunes.apple.com/us/genre/id34"
+          }
+        ],
+        "url":"https://music.apple.com/us/album/changes/1496639180?app=itunes"
+      },
+      {
+        "artistName":"Taylor Swift",
+        "id":"1468058165",
+        "releaseDate":"2019-08-23",
+        "name":"Lover",
+        "kind":"album",
+        "copyright":"℗ 2019 Taylor Swift",
+        "artistId":"159260351",
+        "artistUrl":"https://music.apple.com/us/artist/taylor-swift/159260351?app=itunes",
+        "artworkUrl100":"https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/20/6f/b5/206fb560-6fd5-15f9-0b68-88d309ffc5a6/19UMGIM53909.rgb.jpg/200x200bb.png",
+        "genres":[
+          {
+            "genreId":"14",
+            "name":"Pop",
+            "url":"https://itunes.apple.com/us/genre/id14"
+          },
+          {
+            "genreId":"34",
+            "name":"Music",
+            "url":"https://itunes.apple.com/us/genre/id34"
+          }
+        ],
+        "url":"https://music.apple.com/us/album/lover/1468058165?app=itunes"
+      },
+      {
+        "artistName":"Various Artists",
+        "id":"1491075442",
+        "releaseDate":"2020-02-14",
+        "name":"ZOMBIES 2 (Original TV Movie Soundtrack)",
+        "kind":"album",
+        "copyright":"℗ 2020 Walt Disney Records",
+        "artistId":"36270",
+        "artistUrl":"https://music.apple.com/us/artist/various-artists/36270?app=itunes",
+        "artworkUrl100":"https://is5-ssl.mzstatic.com/image/thumb/Music123/v4/aa/67/5a/aa675a68-dc8a-dec7-334d-d8b99db1a0f9/19UM1IM09894.rgb.jpg/200x200bb.png",
+        "genres":[
+          {
+            "genreId":"16",
+            "name":"Soundtrack",
+            "url":"https://itunes.apple.com/us/genre/id16"
+          },
+          {
+            "genreId":"34",
+            "name":"Music",
+            "url":"https://itunes.apple.com/us/genre/id34"
+          }
+        ],
+        "url":"https://music.apple.com/us/album/zombies-2-original-tv-movie-soundtrack/1491075442?app=itunes"
+      },
+      {
+        "artistName":"Billie Eilish",
+        "id":"1450695723",
+        "releaseDate":"2019-03-29",
+        "name":"WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?",
+        "kind":"album",
+        "copyright":"℗ 2019 Darkroom/Interscope Records",
+        "artistId":"1065981054",
+        "artistUrl":"https://music.apple.com/us/artist/billie-eilish/1065981054?app=itunes",
+        "artworkUrl100":"https://is2-ssl.mzstatic.com/image/thumb/Music124/v4/a7/31/24/a731244c-e065-2f44-63a2-d15b6b27fefa/00602577427657.rgb.jpg/200x200bb.png",
+        "genres":[
+          {
+            "genreId":"20",
+            "name":"Alternative",
+            "url":"https://itunes.apple.com/us/genre/id20"
+          },
+          {
+            "genreId":"34",
+            "name":"Music",
+            "url":"https://itunes.apple.com/us/genre/id34"
+          },
+          {
+            "genreId":"7",
+            "name":"Electronic",
+            "url":"https://itunes.apple.com/us/genre/id7"
+          },
+          {
+            "genreId":"21",
+            "name":"Rock",
+            "url":"https://itunes.apple.com/us/genre/id21"
+          }
+        ],
+        "url":"https://music.apple.com/us/album/when-we-all-fall-asleep-where-do-we-go/1450695723?app=itunes"
+      },
+      {
+        "artistName":"Pat Metheny",
+        "id":"1485305258",
+        "releaseDate":"2020-02-21",
+        "name":"From This Place",
+        "kind":"album",
+        "copyright":"℗ 2020 Metheny Group Productions, under license to Nonesuch Records Inc. for the United States and WEA International Inc. for the world outside the United States.",
+        "artistId":"113526",
+        "artistUrl":"https://music.apple.com/us/artist/pat-metheny/113526?app=itunes",
+        "artworkUrl100":"https://is4-ssl.mzstatic.com/image/thumb/Music113/v4/00/d2/b7/00d2b75c-79b7-ba3d-4e48-ad19a5df1cb8/075597924381.jpg/200x200bb.png",
+        "genres":[
+          {
+            "genreId":"11",
+            "name":"Jazz",
+            "url":"https://itunes.apple.com/us/genre/id11"
+          },
+          {
+            "genreId":"34",
+            "name":"Music",
+            "url":"https://itunes.apple.com/us/genre/id34"
+          }
+        ],
+        "url":"https://music.apple.com/us/album/from-this-place/1485305258?app=itunes"
+      },
+      {
+        "artistName":"Luke Combs",
+        "id":"1479453822",
+        "releaseDate":"2019-11-08",
+        "name":"What You See Is What You Get",
+        "kind":"album",
+        "copyright":"℗ 2019 River House Artists LLC, under exclusive license to Sony Music Entertainment. All rights reserved.",
+        "artistId":"815635315",
+        "artistUrl":"https://music.apple.com/us/artist/luke-combs/815635315?app=itunes",
+        "artworkUrl100":"https://is5-ssl.mzstatic.com/image/thumb/Music123/v4/ce/e8/eb/cee8eb1d-5359-033f-a095-85301ab8ef8b/886447949191.jpg/200x200bb.png",
+        "genres":[
+          {
+            "genreId":"6",
+            "name":"Country",
+            "url":"https://itunes.apple.com/us/genre/id6"
+          },
+          {
+            "genreId":"34",
+            "name":"Music",
+            "url":"https://itunes.apple.com/us/genre/id34"
+          }
+        ],
+        "url":"https://music.apple.com/us/album/what-you-see-is-what-you-get/1479453822?app=itunes"
+      },
+      {
+        "artistName":"Lauren Daigle",
+        "id":"1447184494",
+        "releaseDate":"2018-09-07",
+        "name":"Look Up Child",
+        "kind":"album",
+        "copyright":"℗ 2018 Centricity Music, exclusively Marketed \\u{0026} Distributed by 12Tone Music, LLC. All rights reserved.",
+        "artistId":"722177758",
+        "artistUrl":"https://music.apple.com/us/artist/lauren-daigle/722177758?app=itunes",
+        "artworkUrl100":"https://is4-ssl.mzstatic.com/image/thumb/Music114/v4/ac/3a/5d/ac3a5d41-5bce-4ec2-b795-51d1436c88b4/829619167054.jpg/200x200bb.png",
+        "genres":[
+          {
+            "genreId":"22",
+            "name":"Christian \\u{0026} Gospel",
+            "url":"https://itunes.apple.com/us/genre/id22"
+          },
+          {
+            "genreId":"34",
+            "name":"Music",
+            "url":"https://itunes.apple.com/us/genre/id34"
+          },
+          {
+            "genreId":"21",
+            "name":"Rock",
+            "url":"https://itunes.apple.com/us/genre/id21"
+          },
+          {
+            "genreId":"1103",
+            "name":"Praise \\u{0026} Worship",
+            "url":"https://itunes.apple.com/us/genre/id1103"
+          },
+          {
+            "genreId":"1101",
+            "name":"Gospel",
+            "url":"https://itunes.apple.com/us/genre/id1101"
+          }
+        ],
+        "url":"https://music.apple.com/us/album/look-up-child/1447184494?app=itunes"
+      },
+      {
+        "artistName":"LINKIN PARK",
+        "id":"528436018",
+        "releaseDate":"2000-10-24",
+        "name":"Hybrid Theory",
+        "kind":"album",
+        "copyright":"℗ 2000 Warner Records Inc.",
+        "artistId":"148662",
+        "artistUrl":"https://music.apple.com/us/artist/linkin-park/148662?app=itunes",
+        "artworkUrl100":"https://is4-ssl.mzstatic.com/image/thumb/Features/v4/fc/33/04/fc3304c7-6159-5b5d-ca08-86d2a3a0be84/dj.vrgpwamf.jpg/200x200bb.png",
+        "genres":[
+          {
+            "genreId":"20",
+            "name":"Alternative",
+            "url":"https://itunes.apple.com/us/genre/id20"
+          },
+          {
+            "genreId":"34",
+            "name":"Music",
+            "url":"https://itunes.apple.com/us/genre/id34"
+          },
+          {
+            "genreId":"21",
+            "name":"Rock",
+            "url":"https://itunes.apple.com/us/genre/id21"
+          },
+          {
+            "genreId":"1152",
+            "name":"Hard Rock",
+            "url":"https://itunes.apple.com/us/genre/id1152"
+          },
+          {
+            "genreId":"1153",
+            "name":"Metal",
+            "url":"https://itunes.apple.com/us/genre/id1153"
+          }
+        ],
+        "url":"https://music.apple.com/us/album/hybrid-theory/528436018?app=itunes"
+      },
+      {
+        "artistName":"Cappella Romana \\u{0026} Alexander Lingas",
+        "id":"1485025261",
+        "releaseDate":"2019-11-15",
+        "name":"Lost Voices of Hagia Sophia",
+        "kind":"album",
+        "copyright":"℗ 2019 Cappella Romana",
+        "artistId":"278526144",
+        "artistUrl":"https://music.apple.com/WebObjects/MZStore.woa/wa/viewCollaboration?cc=us\\u{0026}ids=278526144-278526147\\u{0026}app=itunes",
+        "artworkUrl100":"https://is5-ssl.mzstatic.com/image/thumb/Music123/v4/1b/50/14/1b50146f-4761-fd73-cd76-cdcae0738b56/746839858954.jpg/200x200bb.png",
+        "genres":[
+          {
+            "genreId":"5",
+            "name":"Classical",
+            "url":"https://itunes.apple.com/us/genre/id5"
+          },
+          {
+            "genreId":"34",
+            "name":"Music",
+            "url":"https://itunes.apple.com/us/genre/id34"
+          },
+          {
+            "genreId":"1020",
+            "name":"Chant",
+            "url":"https://itunes.apple.com/us/genre/id1020"
+          }
+        ],
+        "url":"https://music.apple.com/us/album/lost-voices-of-hagia-sophia/1485025261?app=itunes"
+      },
+      {
+        "artistName":"Tame Impala",
+        "id":"1484742845",
+        "releaseDate":"2020-02-14",
+        "name":"The Slow Rush",
+        "kind":"album",
+        "copyright":"An Island Records Australia release; ℗ 2019 Modular Recordings Pty Ltd",
+        "artistId":"290242959",
+        "artistUrl":"https://music.apple.com/us/artist/tame-impala/290242959?app=itunes",
+        "artworkUrl100":"https://is4-ssl.mzstatic.com/image/thumb/Music123/v4/a3/d2/fc/a3d2fc93-8911-6f99-854a-8b2a107450d6/19UMGIM96748.rgb.jpg/200x200bb.png",
+        "genres":[
+          {
+            "genreId":"20",
+            "name":"Alternative",
+            "url":"https://itunes.apple.com/us/genre/id20"
+          },
+          {
+            "genreId":"34",
+            "name":"Music",
+            "url":"https://itunes.apple.com/us/genre/id34"
+          }
+        ],
+        "url":"https://music.apple.com/us/album/the-slow-rush/1484742845?app=itunes"
+      },
+      {
+        "artistName":"Weezer",
+        "id":"1450270988",
+        "releaseDate":"2019-01-24",
+        "name":"Weezer (Teal Album)",
+        "kind":"album",
+        "copyright":"℗ 2019 Weezer under exclusive license to Crush Music / Atlantic Recording Corporation for the United States and Crush Music / WEA International Inc. for the world excluding the United States. A Warner Music Company.",
+        "artistId":"115234",
+        "artistUrl":"https://music.apple.com/us/artist/weezer/115234?app=itunes",
+        "artworkUrl100":"https://is2-ssl.mzstatic.com/image/thumb/Music114/v4/97/e6/70/97e670f6-361b-a23d-617a-52bafcd631cd/075679854247.jpg/200x200bb.png",
+        "genres":[
+          {
+            "genreId":"20",
+            "name":"Alternative",
+            "url":"https://itunes.apple.com/us/genre/id20"
+          },
+          {
+            "genreId":"34",
+            "name":"Music",
+            "url":"https://itunes.apple.com/us/genre/id34"
+          },
+          {
+            "genreId":"1006",
+            "name":"Punk",
+            "url":"https://itunes.apple.com/us/genre/id1006"
+          },
+          {
+            "genreId":"21",
+            "name":"Rock",
+            "url":"https://itunes.apple.com/us/genre/id21"
+          },
+          {
+            "genreId":"1144",
+            "name":"Adult Alternative",
+            "url":"https://itunes.apple.com/us/genre/id1144"
+          }
+        ],
+        "url":"https://music.apple.com/us/album/weezer-teal-album/1450270988?app=itunes"
+      },
+      {
+        "artistName":"Various Artists",
+        "id":"1440657117",
+        "releaseDate":"2014-07-29",
+        "name":"Guardians of the Galaxy: Awesome Mix, Vol. 1 (Original Motion Picture Soundtrack)",
+        "kind":"album",
+        "copyright":"This Compilation ℗ 2014 Marvel Music, Inc.",
+        "artistId":"4035426",
+        "artistUrl":"https://music.apple.com/us/artist/various-artists/4035426?app=itunes",
+        "artworkUrl100":"https://is3-ssl.mzstatic.com/image/thumb/Music118/v4/4b/7f/11/4b7f11b4-f869-af4d-a8c4-809d6395b354/00050087310868.rgb.jpg/200x200bb.png",
+        "genres":[
+          {
+            "genreId":"16",
+            "name":"Soundtrack",
+            "url":"https://itunes.apple.com/us/genre/id16"
+          },
+          {
+            "genreId":"34",
+            "name":"Music",
+            "url":"https://itunes.apple.com/us/genre/id34"
+          }
+        ],
+        "url":"https://music.apple.com/us/album/guardians-galaxy-awesome-mix-vol-1-original-motion/1440657117?app=itunes"
+      },
+      {
+        "artistName":"Harry Styles",
+        "id":"1485802965",
+        "releaseDate":"2019-12-13",
+        "name":"Fine Line",
+        "kind":"album",
+        "copyright":"℗ 2019 Erskine Records Limited, under exclusive license to Columbia Records, a Division of Sony Music Entertainment",
+        "artistId":"471260289",
+        "artistUrl":"https://music.apple.com/us/artist/harry-styles/471260289?app=itunes",
+        "artworkUrl100":"https://is4-ssl.mzstatic.com/image/thumb/Music113/v4/72/89/85/728985d1-9484-7b71-1ea8-0f0654f7dc16/886448022213.jpg/200x200bb.png",
+        "genres":[
+          {
+            "genreId":"14",
+            "name":"Pop",
+            "url":"https://itunes.apple.com/us/genre/id14"
+          },
+          {
+            "genreId":"34",
+            "name":"Music",
+            "url":"https://itunes.apple.com/us/genre/id34"
+          }
+        ],
+        "url":"https://music.apple.com/us/album/fine-line/1485802965?app=itunes"
+      },
+      {
+        "artistName":"Bryson Gray",
+        "id":"1498356454",
+        "releaseDate":"2020-02-21",
+        "name":"Maga Ain't Got No Color",
+        "kind":"album",
+        "copyright":"℗ 2020 Bryson Gray",
+        "artistId":"1105657806",
+        "artistUrl":"https://music.apple.com/us/artist/bryson-gray/1105657806?app=itunes",
+        "artworkUrl100":"https://is2-ssl.mzstatic.com/image/thumb/Music113/v4/84/ad/f7/84adf7e1-db99-ad0c-974b-d7eef9e6cb9b/859737246553_cover.jpg/200x200bb.png",
+        "genres":[
+          {
+            "genreId":"18",
+            "name":"Hip-Hop/Rap",
+            "url":"https://itunes.apple.com/us/genre/id18"
+          },
+          {
+            "genreId":"34",
+            "name":"Music",
+            "url":"https://itunes.apple.com/us/genre/id34"
+          }
+        ],
+        "url":"https://music.apple.com/us/album/maga-aint-got-no-color/1498356454?app=itunes"
+      },
+      {
+        "artistName":"Blake Shelton",
+        "id":"1489235169",
+        "releaseDate":"2019-12-13",
+        "name":"Fully Loaded: God's Country",
+        "kind":"album",
+        "copyright":"℗ 2019 Ten Point Productions, Inc. under exclusive license to Warner Records Inc.",
+        "artistId":"189204",
+        "artistUrl":"https://music.apple.com/us/artist/blake-shelton/189204?app=itunes",
+        "artworkUrl100":"https://is3-ssl.mzstatic.com/image/thumb/Music113/v4/c2/50/ce/c250ce37-4daf-3ce7-e6a4-050e0a16d09d/093624896586.jpg/200x200bb.png",
+        "genres":[
+          {
+            "genreId":"6",
+            "name":"Country",
+            "url":"https://itunes.apple.com/us/genre/id6"
+          },
+          {
+            "genreId":"34",
+            "name":"Music",
+            "url":"https://itunes.apple.com/us/genre/id34"
+          }
+        ],
+        "url":"https://music.apple.com/us/album/fully-loaded-gods-country/1489235169?app=itunes"
+      },
+      {
+        "artistName":"The Black Keys",
+        "id":"1052966287",
+        "releaseDate":"2011-12-06",
+        "name":"El Camino",
+        "kind":"album",
+        "copyright":"℗ 2011 Nonesuch Records",
+        "artistId":"5893059",
+        "artistUrl":"https://music.apple.com/us/artist/the-black-keys/5893059?app=itunes",
+        "artworkUrl100":"https://is2-ssl.mzstatic.com/image/thumb/Music62/v4/18/86/d1/1886d1f8-67fd-5c68-86f9-3ef076101491/mzm.nmxwulyo.jpg/200x200bb.png",
+        "genres":[
+          {
+            "genreId":"20",
+            "name":"Alternative",
+            "url":"https://itunes.apple.com/us/genre/id20"
+          },
+          {
+            "genreId":"34",
+            "name":"Music",
+            "url":"https://itunes.apple.com/us/genre/id34"
+          },
+          {
+            "genreId":"21",
+            "name":"Rock",
+            "url":"https://itunes.apple.com/us/genre/id21"
+          },
+          {
+            "genreId":"1144",
+            "name":"Adult Alternative",
+            "url":"https://itunes.apple.com/us/genre/id1144"
+          },
+          {
+            "genreId":"1006",
+            "name":"Punk",
+            "url":"https://itunes.apple.com/us/genre/id1006"
+          },
+          {
+            "genreId":"1004",
+            "name":"Indie Rock",
+            "url":"https://itunes.apple.com/us/genre/id1004"
+          }
+        ],
+        "url":"https://music.apple.com/us/album/el-camino/1052966287?app=itunes"
+      },
+      {
+        "artistName":"Billie Eilish",
+        "id":"1440898929",
+        "releaseDate":"2017-08-11",
+        "name":"dont smile at me",
+        "kind":"album",
+        "copyright":"℗ 2017 Darkroom/Interscope Records",
+        "artistId":"1065981054",
+        "artistUrl":"https://music.apple.com/us/artist/billie-eilish/1065981054?app=itunes",
+        "artworkUrl100":"https://is3-ssl.mzstatic.com/image/thumb/Music118/v4/2e/0d/94/2e0d944c-eb37-e725-70a0-1b11ea3c1843/00602567328056.rgb.jpg/200x200bb.png",
+        "genres":[
+          {
+            "genreId":"20",
+            "name":"Alternative",
+            "url":"https://itunes.apple.com/us/genre/id20"
+          },
+          {
+            "genreId":"34",
+            "name":"Music",
+            "url":"https://itunes.apple.com/us/genre/id34"
+          },
+          {
+            "genreId":"21",
+            "name":"Rock",
+            "url":"https://itunes.apple.com/us/genre/id21"
+          },
+          {
+            "genreId":"7",
+            "name":"Electronic",
+            "url":"https://itunes.apple.com/us/genre/id7"
+          }
+        ],
+        "url":"https://music.apple.com/us/album/dont-smile-at-me/1440898929?app=itunes"
+      },
+      {
+        "artistName":"The Black Keys",
+        "id":"1459700588",
+        "releaseDate":"2019-06-28",
+        "name":"\"Let's Rock\"",
+        "kind":"album",
+        "copyright":"℗ 2019 Nonesuch Records Inc. for the United States and WEA International Inc. for the world outside the United States.",
+        "artistId":"5893059",
+        "artistUrl":"https://music.apple.com/us/artist/the-black-keys/5893059?app=itunes",
+        "artworkUrl100":"https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/5f/80/fd/5f80fd7c-2553-f24c-cd8a-4cd78efce869/075597924961.jpg/200x200bb.png",
+        "genres":[
+          {
+            "genreId":"20",
+            "name":"Alternative",
+            "url":"https://itunes.apple.com/us/genre/id20"
+          },
+          {
+            "genreId":"34",
+            "name":"Music",
+            "url":"https://itunes.apple.com/us/genre/id34"
+          }
+        ],
+        "url":"https://music.apple.com/us/album/lets-rock/1459700588?app=itunes"
+      },
+      {
+        "artistName":"Huey Lewis \\u{0026} The News",
+        "id":"1484416610",
+        "releaseDate":"2020-02-14",
+        "name":"Weather",
+        "kind":"album",
+        "copyright":"℗ 2019 NEW HULEX, LLC under exclusive license to BMG Rights Management (US) LLC",
+        "artistId":"13793427",
+        "artistUrl":"https://music.apple.com/us/artist/huey-lewis-the-news/13793427?app=itunes",
+        "artworkUrl100":"https://is4-ssl.mzstatic.com/image/thumb/Music123/v4/60/82/ec/6082ecfa-5644-57b7-589a-b09278cfc74f/4050538543605.jpg/200x200bb.png",
+        "genres":[
+          {
+            "genreId":"14",
+            "name":"Pop",
+            "url":"https://itunes.apple.com/us/genre/id14"
+          },
+          {
+            "genreId":"34",
+            "name":"Music",
+            "url":"https://itunes.apple.com/us/genre/id34"
+          }
+        ],
+        "url":"https://music.apple.com/us/album/weather/1484416610?app=itunes"
+      },
+      {
+        "artistName":"Elton John",
+        "id":"1440903115",
+        "releaseDate":"2017-11-03",
+        "name":"Diamonds",
+        "kind":"album",
+        "copyright":"A Virgin EMI Records Release; This Compilation ℗ 2017 Universal Music Operations Limited",
+        "artistId":"54657",
+        "artistUrl":"https://music.apple.com/us/artist/elton-john/54657?app=itunes",
+        "artworkUrl100":"https://is5-ssl.mzstatic.com/image/thumb/Music128/v4/30/23/48/302348a1-07d6-ec8b-b801-9ebf7c11c467/00602557998368.rgb.jpg/200x200bb.png",
+        "genres":[
+          {
+            "genreId":"14",
+            "name":"Pop",
+            "url":"https://itunes.apple.com/us/genre/id14"
+          },
+          {
+            "genreId":"34",
+            "name":"Music",
+            "url":"https://itunes.apple.com/us/genre/id34"
+          },
+          {
+            "genreId":"1131",
+            "name":"Adult Contemporary",
+            "url":"https://itunes.apple.com/us/genre/id1131"
+          },
+          {
+            "genreId":"21",
+            "name":"Rock",
+            "url":"https://itunes.apple.com/us/genre/id21"
+          },
+          {
+            "genreId":"1146",
+            "name":"Arena Rock",
+            "url":"https://itunes.apple.com/us/genre/id1146"
+          },
+          {
+            "genreId":"1160",
+            "name":"Singer/Songwriter",
+            "url":"https://itunes.apple.com/us/genre/id1160"
+          },
+          {
+            "genreId":"1134",
+            "name":"Soft Rock",
+            "url":"https://itunes.apple.com/us/genre/id1134"
+          },
+          {
+            "genreId":"1133",
+            "name":"Pop/Rock",
+            "url":"https://itunes.apple.com/us/genre/id1133"
+          }
+        ],
+        "url":"https://music.apple.com/us/album/diamonds/1440903115?app=itunes"
+      },
+      {
+        "artistName":"Various Artists",
+        "id":"1299856714",
+        "releaseDate":"2017-12-08",
+        "name":"The Greatest Showman (Original Motion Picture Soundtrack)",
+        "kind":"album",
+        "copyright":"℗ 2017 This compilation Atlantic Recording Corporation for the United States and WEA International Inc. for the world outside of the United States. Motion Picture Artwork, Photos, and Fox Trademarks and Logos TM and © 2017 Twentieth Century Fox Film Corporation.",
+        "artistId":"36270",
+        "artistUrl":"https://music.apple.com/us/artist/various-artists/36270?app=itunes",
+        "artworkUrl100":"https://is5-ssl.mzstatic.com/image/thumb/Music128/v4/c1/7b/a9/c17ba975-34aa-ee68-d3c9-e1db840fa06b/075679886613.jpg/200x200bb.png",
+        "genres":[
+          {
+            "genreId":"16",
+            "name":"Soundtrack",
+            "url":"https://itunes.apple.com/us/genre/id16"
+          },
+          {
+            "genreId":"34",
+            "name":"Music",
+            "url":"https://itunes.apple.com/us/genre/id34"
+          }
+        ],
+        "url":"https://music.apple.com/us/album/the-greatest-showman-original-motion-picture-soundtrack/1299856714?app=itunes"
+      },
+      {
+        "artistName":"Various Artists",
+        "id":"1487738280",
+        "releaseDate":"2019-11-15",
+        "name":"Frozen 2 (Original Motion Picture Soundtrack / Deluxe Edition)",
+        "kind":"album",
+        "copyright":"℗ 2019 Walt Disney Records",
+        "artistId":"36270",
+        "artistUrl":"https://music.apple.com/us/artist/various-artists/36270?app=itunes",
+        "artworkUrl100":"https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/5d/ea/6d/5dea6db2-aa20-7775-0309-7a6a8fe0be88/19UM1IM00155.rgb.jpg/200x200bb.png",
+        "genres":[
+          {
+            "genreId":"16",
+            "name":"Soundtrack",
+            "url":"https://itunes.apple.com/us/genre/id16"
+          },
+          {
+            "genreId":"34",
+            "name":"Music",
+            "url":"https://itunes.apple.com/us/genre/id34"
+          }
+        ],
+        "url":"https://music.apple.com/us/album/frozen-2-original-motion-picture-soundtrack-deluxe/1487738280?app=itunes"
+      },
+      {
+        "artistName":"Jonas Brothers",
+        "id":"1461478261",
+        "releaseDate":"2019-06-07",
+        "name":"Happiness Begins",
+        "kind":"album",
+        "copyright":"℗ 2019 Jonas Brothers Recording, Limited Liability Company, under exclusive license to Republic Records, a division of UMG Recordings, Inc.",
+        "artistId":"114342891",
+        "artistUrl":"https://music.apple.com/us/artist/jonas-brothers/114342891?app=itunes",
+        "artworkUrl100":"https://is2-ssl.mzstatic.com/image/thumb/Music113/v4/fa/c2/d5/fac2d55b-d2ba-03ab-855b-fb9722419c88/19UMGIM38391.rgb.jpg/200x200bb.png",
+        "genres":[
+          {
+            "genreId":"14",
+            "name":"Pop",
+            "url":"https://itunes.apple.com/us/genre/id14"
+          },
+          {
+            "genreId":"34",
+            "name":"Music",
+            "url":"https://itunes.apple.com/us/genre/id34"
+          },
+          {
+            "genreId":"21",
+            "name":"Rock",
+            "url":"https://itunes.apple.com/us/genre/id21"
+          }
+        ],
+        "url":"https://music.apple.com/us/album/happiness-begins/1461478261?app=itunes"
+      },
+      {
+        "artistName":"Stone Temple Pilots",
+        "id":"1285806791",
+        "releaseDate":"1992-09-29",
+        "name":"Core (Remastered)",
+        "kind":"album",
+        "copyright":"℗ 1992 Atlantic Recording Corporation. All Rights Reserved. Marketed by Rhino Entertainment Company.",
+        "artistId":"889772",
+        "artistUrl":"https://music.apple.com/us/artist/stone-temple-pilots/889772?app=itunes",
+        "artworkUrl100":"https://is5-ssl.mzstatic.com/image/thumb/Music128/v4/9c/c1/4d/9cc14ddd-fc63-58eb-d911-98de74825324/603497869275.jpg/200x200bb.png",
+        "genres":[
+          {
+            "genreId":"20",
+            "name":"Alternative",
+            "url":"https://itunes.apple.com/us/genre/id20"
+          },
+          {
+            "genreId":"34",
+            "name":"Music",
+            "url":"https://itunes.apple.com/us/genre/id34"
+          },
+          {
+            "genreId":"21",
+            "name":"Rock",
+            "url":"https://itunes.apple.com/us/genre/id21"
+          },
+          {
+            "genreId":"1152",
+            "name":"Hard Rock",
+            "url":"https://itunes.apple.com/us/genre/id1152"
+          },
+          {
+            "genreId":"14",
+            "name":"Pop",
+            "url":"https://itunes.apple.com/us/genre/id14"
+          },
+          {
+            "genreId":"1133",
+            "name":"Pop/Rock",
+            "url":"https://itunes.apple.com/us/genre/id1133"
+          },
+          {
+            "genreId":"1003",
+            "name":"Grunge",
+            "url":"https://itunes.apple.com/us/genre/id1003"
+          },
+          {
+            "genreId":"1144",
+            "name":"Adult Alternative",
+            "url":"https://itunes.apple.com/us/genre/id1144"
+          }
+        ],
+        "url":"https://music.apple.com/us/album/core-remastered/1285806791?app=itunes"
+      },
+      {
+        "artistName":"Chris Stapleton",
+        "id":"1440827477",
+        "releaseDate":"2015-05-05",
+        "name":"Traveller",
+        "kind":"album",
+        "copyright":"℗ 2015 Mercury Records, a Division of UMG Recordings, Inc.",
+        "artistId":"1752134",
+        "artistUrl":"https://music.apple.com/us/artist/chris-stapleton/1752134?app=itunes",
+        "artworkUrl100":"https://is2-ssl.mzstatic.com/image/thumb/Music118/v4/c8/cc/11/c8cc1138-c040-761e-19d1-63da33ef9a34/00602547223838.rgb.jpg/200x200bb.png",
+        "genres":[
+          {
+            "genreId":"6",
+            "name":"Country",
+            "url":"https://itunes.apple.com/us/genre/id6"
+          },
+          {
+            "genreId":"34",
+            "name":"Music",
+            "url":"https://itunes.apple.com/us/genre/id34"
+          },
+          {
+            "genreId":"21",
+            "name":"Rock",
+            "url":"https://itunes.apple.com/us/genre/id21"
+          },
+          {
+            "genreId":"1161",
+            "name":"Southern Rock",
+            "url":"https://itunes.apple.com/us/genre/id1161"
+          },
+          {
+            "genreId":"1037",
+            "name":"Contemporary Country",
+            "url":"https://itunes.apple.com/us/genre/id1037"
+          }
+        ],
+        "url":"https://music.apple.com/us/album/traveller/1440827477?app=itunes"
+      },
+      {
+        "artistName":"Various Artists",
+        "id":"1491393508",
+        "releaseDate":"2020-01-24",
+        "name":"NOW That's What I Call Music! Vol. 73",
+        "kind":"album",
+        "copyright":"℗ 2020 UMG Recordings, Inc. and Sony Music Entertainment",
+        "artistId":"80204262",
+        "artistUrl":"https://music.apple.com/us/artist/various-artists/80204262?app=itunes",
+        "artworkUrl100":"https://is2-ssl.mzstatic.com/image/thumb/Music113/v4/15/69/2f/15692f54-66d6-1e87-f2c9-9939a0ec9846/886448193265.jpg/200x200bb.png",
+        "genres":[
+          {
+            "genreId":"14",
+            "name":"Pop",
+            "url":"https://itunes.apple.com/us/genre/id14"
+          },
+          {
+            "genreId":"34",
+            "name":"Music",
+            "url":"https://itunes.apple.com/us/genre/id34"
+          }
+        ],
+        "url":"https://music.apple.com/us/album/now-thats-what-i-call-music-vol-73/1491393508?app=itunes"
+      },
+      {
+        "artistName":"Journey",
+        "id":"169003304",
+        "releaseDate":"1988-11-15",
+        "name":"Greatest Hits",
+        "kind":"album",
+        "copyright":"℗ 1978, 1979, 1980, 1981, 1982, 1983, 1985, 1986, 1996, 2006 Sony Music Entertainment",
+        "artistId":"486597",
+        "artistUrl":"https://music.apple.com/us/artist/journey/486597?app=itunes",
+        "artworkUrl100":"https://is1-ssl.mzstatic.com/image/thumb/Music5/v4/7e/da/88/7eda8885-e40f-9a02-381a-f814bb6da295/dj.bwrsrfzo.jpg/200x200bb.png",
+        "genres":[
+          {
+            "genreId":"21",
+            "name":"Rock",
+            "url":"https://itunes.apple.com/us/genre/id21"
+          },
+          {
+            "genreId":"34",
+            "name":"Music",
+            "url":"https://itunes.apple.com/us/genre/id34"
+          },
+          {
+            "genreId":"14",
+            "name":"Pop",
+            "url":"https://itunes.apple.com/us/genre/id14"
+          },
+          {
+            "genreId":"1131",
+            "name":"Adult Contemporary",
+            "url":"https://itunes.apple.com/us/genre/id1131"
+          },
+          {
+            "genreId":"1152",
+            "name":"Hard Rock",
+            "url":"https://itunes.apple.com/us/genre/id1152"
+          },
+          {
+            "genreId":"1146",
+            "name":"Arena Rock",
+            "url":"https://itunes.apple.com/us/genre/id1146"
+          },
+          {
+            "genreId":"1134",
+            "name":"Soft Rock",
+            "url":"https://itunes.apple.com/us/genre/id1134"
+          },
+          {
+            "genreId":"1133",
+            "name":"Pop/Rock",
+            "url":"https://itunes.apple.com/us/genre/id1133"
+          }
+        ],
+        "url":"https://music.apple.com/us/album/greatest-hits/169003304?app=itunes"
+      },
+      {
+        "artistName":"Various Artists",
+        "id":"1440618177",
+        "releaseDate":"2013-11-25",
+        "name":"Frozen (Original Motion Picture Soundtrack)",
+        "kind":"album",
+        "copyright":"This Compilation ℗ 2013 Walt Disney Records",
+        "artistId":"4035426",
+        "artistUrl":"https://music.apple.com/us/artist/various-artists/4035426?app=itunes",
+        "artworkUrl100":"https://is5-ssl.mzstatic.com/image/thumb/Music128/v4/35/a0/4a/35a04a85-7dfc-f9f0-16fb-066245289513/00050087301637.rgb.jpg/200x200bb.png",
+        "genres":[
+          {
+            "genreId":"16",
+            "name":"Soundtrack",
+            "url":"https://itunes.apple.com/us/genre/id16"
+          },
+          {
+            "genreId":"34",
+            "name":"Music",
+            "url":"https://itunes.apple.com/us/genre/id34"
+          }
+        ],
+        "url":"https://music.apple.com/us/album/frozen-original-motion-picture-soundtrack/1440618177?app=itunes"
+      },
+      {
+        "artistName":"Best Coast",
+        "id":"1492196382",
+        "releaseDate":"2020-02-21",
+        "name":"Always Tomorrow",
+        "kind":"album",
+        "copyright":"℗ 2020 Bethany Cosentino., Under exclusive license to Concord Records. Distributed by Concord.",
+        "artistId":"338552024",
+        "artistUrl":"https://music.apple.com/us/artist/best-coast/338552024?app=itunes",
+        "artworkUrl100":"https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/bd/2d/58/bd2d589e-3927-e63c-02ef-f0a2abe97244/19CRGIM16808.rgb.jpg/200x200bb.png",
+        "genres":[
+          {
+            "genreId":"20",
+            "name":"Alternative",
+            "url":"https://itunes.apple.com/us/genre/id20"
+          },
+          {
+            "genreId":"34",
+            "name":"Music",
+            "url":"https://itunes.apple.com/us/genre/id34"
+          }
+        ],
+        "url":"https://music.apple.com/us/album/always-tomorrow/1492196382?app=itunes"
+      },
+      {
+        "artistName":"Ellie Holcomb",
+        "id":"1496303726",
+        "releaseDate":"2020-02-21",
+        "name":"Sing: Remembering Songs - EP",
+        "kind":"album",
+        "copyright":"℗ 2020 Full Heart Music",
+        "artistId":"382655540",
+        "artistUrl":"https://music.apple.com/us/artist/ellie-holcomb/382655540?app=itunes",
+        "artworkUrl100":"https://is3-ssl.mzstatic.com/image/thumb/Music113/v4/8a/ca/ad/8acaad76-c3e7-7e71-9979-b5f171bb5d67/701822920537_cover.jpg/200x200bb.png",
+        "genres":[
+          {
+            "genreId":"4",
+            "name":"Children's Music",
+            "url":"https://itunes.apple.com/us/genre/id4"
+          },
+          {
+            "genreId":"34",
+            "name":"Music",
+            "url":"https://itunes.apple.com/us/genre/id34"
+          },
+          {
+            "genreId":"22",
+            "name":"Christian \\u{0026} Gospel",
+            "url":"https://itunes.apple.com/us/genre/id22"
+          }
+        ],
+        "url":"https://music.apple.com/us/album/sing-remembering-songs-ep/1496303726?app=itunes"
+      },
+      {
+        "artistName":"King Krule",
+        "id":"1491285371",
+        "releaseDate":"2020-02-21",
+        "name":"Man Alive!",
+        "kind":"album",
+        "copyright":"℗ 2020 True Panther Sounds",
+        "artistId":"474544289",
+        "artistUrl":"https://music.apple.com/us/artist/king-krule/474544289?app=itunes",
+        "artworkUrl100":"https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/14/d7/33/14d733c1-2248-677b-c962-ecea942c3a04/cover.jpg/200x200bb.png",
+        "genres":[
+          {
+            "genreId":"20",
+            "name":"Alternative",
+            "url":"https://itunes.apple.com/us/genre/id20"
+          },
+          {
+            "genreId":"34",
+            "name":"Music",
+            "url":"https://itunes.apple.com/us/genre/id34"
+          }
+        ],
+        "url":"https://music.apple.com/us/album/man-alive/1491285371?app=itunes"
+      },
+      {
+        "artistName":"Various Artists",
+        "id":"1440629897",
+        "releaseDate":"2017-04-21",
+        "name":"Vol. 2 Guardians of the Galaxy: Awesome Mix Vol. 2 (Original Motion Picture Soundtrack)",
+        "kind":"album",
+        "copyright":"This Compilation ℗ 2017 Marvel Music, Inc.",
+        "artistId":"36270",
+        "artistUrl":"https://music.apple.com/us/artist/various-artists/36270?app=itunes",
+        "artworkUrl100":"https://is2-ssl.mzstatic.com/image/thumb/Music118/v4/cb/59/f4/cb59f4e3-69b5-f95c-cc5d-22637b29e139/00050087368777.rgb.jpg/200x200bb.png",
+        "genres":[
+          {
+            "genreId":"16",
+            "name":"Soundtrack",
+            "url":"https://itunes.apple.com/us/genre/id16"
+          },
+          {
+            "genreId":"34",
+            "name":"Music",
+            "url":"https://itunes.apple.com/us/genre/id34"
+          }
+        ],
+        "url":"https://music.apple.com/us/album/vol-2-guardians-galaxy-awesome-mix-vol-2-original-motion/1440629897?app=itunes"
+      },
+      {
+        "artistName":"Bob Marley \\u{0026} The Wailers",
+        "id":"1469575763",
+        "releaseDate":"1984-05-08",
+        "name":"Legend: The Best of Bob Marley and the Wailers (Remastered)",
+        "kind":"album",
+        "copyright":"This Compilation ℗ 2002 The Island Def Jam Music Group",
+        "artistId":"3174628",
+        "artistUrl":"https://music.apple.com/us/artist/bob-marley-the-wailers/3174628?app=itunes",
+        "artworkUrl100":"https://is2-ssl.mzstatic.com/image/thumb/Music113/v4/bf/dd/d3/bfddd300-82bc-c01b-6877-909ea14ed2d4/12UMGIM14712.rgb.jpg/200x200bb.png",
+        "genres":[
+          {
+            "genreId":"24",
+            "name":"Reggae",
+            "url":"https://itunes.apple.com/us/genre/id24"
+          },
+          {
+            "genreId":"34",
+            "name":"Music",
+            "url":"https://itunes.apple.com/us/genre/id34"
+          },
+          {
+            "genreId":"1192",
+            "name":"Roots Reggae",
+            "url":"https://itunes.apple.com/us/genre/id1192"
+          }
+        ],
+        "url":"https://music.apple.com/us/album/legend-the-best-of-bob-marley-and-the-wailers-remastered/1469575763?app=itunes"
+      },
+      {
+        "artistName":"Greg Dulli",
+        "id":"1488635252",
+        "releaseDate":"2020-02-21",
+        "name":"Random Desire",
+        "kind":"album",
+        "copyright":"℗ 2020 Royal Cream, LLC under exclusive license to BMG Rights Management (US) LLC",
+        "artistId":"468370",
+        "artistUrl":"https://music.apple.com/us/artist/greg-dulli/468370?app=itunes",
+        "artworkUrl100":"https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/ce/f1/7b/cef17b7b-496b-2ee4-0a5c-03d07a51a86b/4050538593235.jpg/200x200bb.png",
+        "genres":[
+          {
+            "genreId":"20",
+            "name":"Alternative",
+            "url":"https://itunes.apple.com/us/genre/id20"
+          },
+          {
+            "genreId":"34",
+            "name":"Music",
+            "url":"https://itunes.apple.com/us/genre/id34"
+          }
+        ],
+        "url":"https://music.apple.com/us/album/random-desire/1488635252?app=itunes"
+      },
+      {
+        "artistName":"Demons \\u{0026} Wizards",
+        "id":"1491238336",
+        "releaseDate":"2020-02-21",
+        "name":"lll",
+        "kind":"album",
+        "copyright":"℗ 2020 Century Media Records Ltd. under exclusive license from Demons \\u{0026} Wizards",
+        "artistId":"217744297",
+        "artistUrl":"https://music.apple.com/us/artist/demons-wizards/217744297?app=itunes",
+        "artworkUrl100":"https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/a5/ac/69/a5ac6906-80c6-98f9-a273-78b89320f208/886448124122.jpg/200x200bb.png",
+        "genres":[
+          {
+            "genreId":"1153",
+            "name":"Metal",
+            "url":"https://itunes.apple.com/us/genre/id1153"
+          },
+          {
+            "genreId":"34",
+            "name":"Music",
+            "url":"https://itunes.apple.com/us/genre/id34"
+          },
+          {
+            "genreId":"21",
+            "name":"Rock",
+            "url":"https://itunes.apple.com/us/genre/id21"
+          }
+        ],
+        "url":"https://music.apple.com/us/album/lll/1491238336?app=itunes"
+      },
+      {
+        "artistName":"Morgan Wallen",
+        "id":"1440111976",
+        "releaseDate":"2018-04-27",
+        "name":"If I Know Me",
+        "kind":"album",
+        "copyright":"℗ 2018 Big Loud Records",
+        "artistId":"829142092",
+        "artistUrl":"https://music.apple.com/us/artist/morgan-wallen/829142092?app=itunes",
+        "artworkUrl100":"https://is2-ssl.mzstatic.com/image/thumb/Music128/v4/be/9d/e6/be9de62d-d780-de18-f355-da4029f4829c/842812106569_01_img001.jpg/200x200bb.png",
+        "genres":[
+          {
+            "genreId":"6",
+            "name":"Country",
+            "url":"https://itunes.apple.com/us/genre/id6"
+          },
+          {
+            "genreId":"34",
+            "name":"Music",
+            "url":"https://itunes.apple.com/us/genre/id34"
+          },
+          {
+            "genreId":"1039",
+            "name":"Honky Tonk",
+            "url":"https://itunes.apple.com/us/genre/id1039"
+          },
+          {
+            "genreId":"14",
+            "name":"Pop",
+            "url":"https://itunes.apple.com/us/genre/id14"
+          },
+          {
+            "genreId":"1133",
+            "name":"Pop/Rock",
+            "url":"https://itunes.apple.com/us/genre/id1133"
+          },
+          {
+            "genreId":"1037",
+            "name":"Contemporary Country",
+            "url":"https://itunes.apple.com/us/genre/id1037"
+          },
+          {
+            "genreId":"21",
+            "name":"Rock",
+            "url":"https://itunes.apple.com/us/genre/id21"
+          },
+          {
+            "genreId":"1161",
+            "name":"Southern Rock",
+            "url":"https://itunes.apple.com/us/genre/id1161"
+          }
+        ],
+        "url":"https://music.apple.com/us/album/if-i-know-me/1440111976?app=itunes"
+      },
+      {
+        "artistName":"twenty one pilots",
+        "id":"585128397",
+        "releaseDate":"2012-12-26",
+        "name":"Vessel",
+        "kind":"album",
+        "copyright":"℗ 2012 Fueled By Ramen LLC for the United States and WEA International Inc. for the world outside of the United States.",
+        "artistId":"349736311",
+        "artistUrl":"https://music.apple.com/us/artist/twenty-one-pilots/349736311?app=itunes",
+        "artworkUrl100":"https://is2-ssl.mzstatic.com/image/thumb/Music/v4/19/8b/74/198b74f6-e20b-4744-9665-14ad9b39d69f/075679957924.jpg/200x200bb.png",
+        "genres":[
+          {
+            "genreId":"20",
+            "name":"Alternative",
+            "url":"https://itunes.apple.com/us/genre/id20"
+          },
+          {
+            "genreId":"34",
+            "name":"Music",
+            "url":"https://itunes.apple.com/us/genre/id34"
+          },
+          {
+            "genreId":"21",
+            "name":"Rock",
+            "url":"https://itunes.apple.com/us/genre/id21"
+          },
+          {
+            "genreId":"1004",
+            "name":"Indie Rock",
+            "url":"https://itunes.apple.com/us/genre/id1004"
+          },
+          {
+            "genreId":"18",
+            "name":"Hip-Hop/Rap",
+            "url":"https://itunes.apple.com/us/genre/id18"
+          },
+          {
+            "genreId":"1076",
+            "name":"Rap",
+            "url":"https://itunes.apple.com/us/genre/id1076"
+          },
+          {
+            "genreId":"1077",
+            "name":"Underground Rap",
+            "url":"https://itunes.apple.com/us/genre/id1077"
+          }
+        ],
+        "url":"https://music.apple.com/us/album/vessel/585128397?app=itunes"
+      },
+      {
+        "artistName":"Green Day",
+        "id":"1478976850",
+        "releaseDate":"2020-02-07",
+        "name":"Father of All...",
+        "kind":"album",
+        "copyright":"℗ 2020 Reprise Records.",
+        "artistId":"954266",
+        "artistUrl":"https://music.apple.com/us/artist/green-day/954266?app=itunes",
+        "artworkUrl100":"https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/9c/49/a6/9c49a655-f758-f611-683d-ad14f128e0d2/093624897613.jpg/200x200bb.png",
+        "genres":[
+          {
+            "genreId":"20",
+            "name":"Alternative",
+            "url":"https://itunes.apple.com/us/genre/id20"
+          },
+          {
+            "genreId":"34",
+            "name":"Music",
+            "url":"https://itunes.apple.com/us/genre/id34"
+          }
+        ],
+        "url":"https://music.apple.com/us/album/father-of-all/1478976850?app=itunes"
+      },
+      {
+        "artistName":"Bruce Springsteen",
+        "id":"1499154988",
+        "releaseDate":"2007-06-05",
+        "name":"Live in Dublin - Bonus Tracks - EP",
+        "kind":"album",
+        "copyright":"℗ 2007 Bruce Springsteen",
+        "artistId":"178834",
+        "artistUrl":"https://music.apple.com/us/artist/bruce-springsteen/178834?app=itunes",
+        "artworkUrl100":"https://is2-ssl.mzstatic.com/image/thumb/Music114/v4/5e/7d/75/5e7d7567-2b2b-682e-a89c-af6f8c406bff/886448294177.jpg/200x200bb.png",
+        "genres":[
+          {
+            "genreId":"21",
+            "name":"Rock",
+            "url":"https://itunes.apple.com/us/genre/id21"
+          },
+          {
+            "genreId":"34",
+            "name":"Music",
+            "url":"https://itunes.apple.com/us/genre/id34"
+          }
+        ],
+        "url":"https://music.apple.com/us/album/live-in-dublin-bonus-tracks-ep/1499154988?app=itunes"
+      },
+      {
+        "artistName":"Queen",
+        "id":"1422650667",
+        "releaseDate":"1981-10-26",
+        "name":"Greatest Hits",
+        "kind":"album",
+        "copyright":"This Compilation ℗ 2014 Hollywood Records, Inc.",
+        "artistId":"3296287",
+        "artistUrl":"https://music.apple.com/us/artist/queen/3296287?app=itunes",
+        "artworkUrl100":"https://is3-ssl.mzstatic.com/image/thumb/Music128/v4/69/0f/1c/690f1c32-c65d-b4bc-457c-d2682766761b/00050087319175.rgb.jpg/200x200bb.png",
+        "genres":[
+          {
+            "genreId":"21",
+            "name":"Rock",
+            "url":"https://itunes.apple.com/us/genre/id21"
+          },
+          {
+            "genreId":"34",
+            "name":"Music",
+            "url":"https://itunes.apple.com/us/genre/id34"
+          },
+          {
+            "genreId":"1146",
+            "name":"Arena Rock",
+            "url":"https://itunes.apple.com/us/genre/id1146"
+          },
+          {
+            "genreId":"1152",
+            "name":"Hard Rock",
+            "url":"https://itunes.apple.com/us/genre/id1152"
+          },
+          {
+            "genreId":"1150",
+            "name":"Glam Rock",
+            "url":"https://itunes.apple.com/us/genre/id1150"
+          },
+          {
+            "genreId":"14",
+            "name":"Pop",
+            "url":"https://itunes.apple.com/us/genre/id14"
+          },
+          {
+            "genreId":"1133",
+            "name":"Pop/Rock",
+            "url":"https://itunes.apple.com/us/genre/id1133"
+          },
+          {
+            "genreId":"1153",
+            "name":"Metal",
+            "url":"https://itunes.apple.com/us/genre/id1153"
+          }
+        ],
+        "url":"https://music.apple.com/us/album/greatest-hits/1422650667?app=itunes"
+      },
+      {
+        "artistName":"Agnes Obel",
+        "id":"1483217196",
+        "releaseDate":"2020-02-21",
+        "name":"Myopia",
+        "kind":"album",
+        "copyright":"℗ 2020 Strange Harvest Limited, under exclusive license to Deutsche Grammophon GmbH, Berlin",
+        "artistId":"369610392",
+        "artistUrl":"https://music.apple.com/us/artist/agnes-obel/369610392?app=itunes",
+        "artworkUrl100":"https://is2-ssl.mzstatic.com/image/thumb/Music124/v4/6d/2d/4e/6d2d4e65-fcc6-8020-a731-92d7e5afd342/19UMGIM77143.rgb.jpg/200x200bb.png",
+        "genres":[
+          {
+            "genreId":"20",
+            "name":"Alternative",
+            "url":"https://itunes.apple.com/us/genre/id20"
+          },
+          {
+            "genreId":"34",
+            "name":"Music",
+            "url":"https://itunes.apple.com/us/genre/id34"
+          }
+        ],
+        "url":"https://music.apple.com/us/album/myopia/1483217196?app=itunes"
+      },
+      {
+        "artistName":"Robert Glasper",
+        "id":"1496881263",
+        "releaseDate":"2020-02-07",
+        "name":"The Photograph (Original Motion Picture Soundtrack)",
+        "kind":"album",
+        "copyright":"℗ 2020 Back Lot Music, a division of Universal Studios Music LLLP",
+        "artistId":"4643652",
+        "artistUrl":"https://music.apple.com/us/artist/robert-glasper/4643652?app=itunes",
+        "artworkUrl100":"https://is2-ssl.mzstatic.com/image/thumb/Music113/v4/10/fe/a7/10fea707-0ce9-7a09-8bab-935800aead6f/48.jpg/200x200bb.png",
+        "genres":[
+          {
+            "genreId":"16",
+            "name":"Soundtrack",
+            "url":"https://itunes.apple.com/us/genre/id16"
+          },
+          {
+            "genreId":"34",
+            "name":"Music",
+            "url":"https://itunes.apple.com/us/genre/id34"
+          },
+          {
+            "genreId":"1168",
+            "name":"Original Score",
+            "url":"https://itunes.apple.com/us/genre/id1168"
+          }
+        ],
+        "url":"https://music.apple.com/us/album/the-photograph-original-motion-picture-soundtrack/1496881263?app=itunes"
+      },
+      {
+        "artistName":"SIX",
+        "id":"1465183308",
+        "releaseDate":"2018-08-31",
+        "name":"Six: The Musical (Studio Cast Recording)",
+        "kind":"album",
+        "copyright":"℗ 2018 6 Music Ltd a division of Loudmouth, under exclusive license from Ex-Wives Ltd",
+        "artistId":"1436720478",
+        "artistUrl":"https://music.apple.com/us/artist/six/1436720478?app=itunes",
+        "artworkUrl100":"https://is3-ssl.mzstatic.com/image/thumb/Music113/v4/25/37/05/25370588-3948-6230-706c-47107e09373d/5054526984462.jpg/200x200bb.png",
+        "genres":[
+          {
+            "genreId":"16",
+            "name":"Soundtrack",
+            "url":"https://itunes.apple.com/us/genre/id16"
+          },
+          {
+            "genreId":"34",
+            "name":"Music",
+            "url":"https://itunes.apple.com/us/genre/id34"
+          },
+          {
+            "genreId":"14",
+            "name":"Pop",
+            "url":"https://itunes.apple.com/us/genre/id14"
+          }
+        ],
+        "url":"https://music.apple.com/us/album/six-the-musical-studio-cast-recording/1465183308?app=itunes"
+      },
+      {
+        "artistName":"Country Music Ensemble",
+        "id":"1490217806",
+        "releaseDate":"2019-12-03",
+        "name":"Garth Brooks Greatest Hits: Cover Tribute Album, Vol. 1",
+        "kind":"album",
+        "copyright":"℗ 2019 Country Recordings Inc.",
+        "artistId":"1490214987",
+        "artistUrl":"https://music.apple.com/us/artist/country-music-ensemble/1490214987?app=itunes",
+        "artworkUrl100":"https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/34/35/79/3435797a-3379-7235-4f57-9294773df015/XELMOB20314.jpg/200x200bb.png",
+        "genres":[
+          {
+            "genreId":"6",
+            "name":"Country",
+            "url":"https://itunes.apple.com/us/genre/id6"
+          },
+          {
+            "genreId":"34",
+            "name":"Music",
+            "url":"https://itunes.apple.com/us/genre/id34"
+          }
+        ],
+        "url":"https://music.apple.com/us/album/garth-brooks-greatest-hits-cover-tribute-album-vol-1/1490217806?app=itunes"
+      },
+      {
+        "artistName":"ABBA",
+        "id":"1422648512",
+        "releaseDate":"1992-09-21",
+        "name":"Gold: Greatest Hits",
+        "kind":"album",
+        "copyright":"This Compilation ℗ 2014 Polar Music International AB",
+        "artistId":"372976",
+        "artistUrl":"https://music.apple.com/us/artist/abba/372976?app=itunes",
+        "artworkUrl100":"https://is3-ssl.mzstatic.com/image/thumb/Music118/v4/dc/85/67/dc856796-2dfb-1c17-b87f-162c12185541/00602537784608.rgb.jpg/200x200bb.png",
+        "genres":[
+          {
+            "genreId":"14",
+            "name":"Pop",
+            "url":"https://itunes.apple.com/us/genre/id14"
+          },
+          {
+            "genreId":"34",
+            "name":"Music",
+            "url":"https://itunes.apple.com/us/genre/id34"
+          },
+          {
+            "genreId":"1132",
+            "name":"Britpop",
+            "url":"https://itunes.apple.com/us/genre/id1132"
+          },
+          {
+            "genreId":"1134",
+            "name":"Soft Rock",
+            "url":"https://itunes.apple.com/us/genre/id1134"
+          },
+          {
+            "genreId":"1133",
+            "name":"Pop/Rock",
+            "url":"https://itunes.apple.com/us/genre/id1133"
+          },
+          {
+            "genreId":"19",
+            "name":"World",
+            "url":"https://itunes.apple.com/us/genre/id19"
+          },
+          {
+            "genreId":"1205",
+            "name":"Europe",
+            "url":"https://itunes.apple.com/us/genre/id1205"
+          },
+          {
+            "genreId":"17",
+            "name":"Dance",
+            "url":"https://itunes.apple.com/us/genre/id17"
+          },
+          {
+            "genreId":"15",
+            "name":"R\\u{0026}B/Soul",
+            "url":"https://itunes.apple.com/us/genre/id15"
+          },
+          {
+            "genreId":"1137",
+            "name":"Disco",
+            "url":"https://itunes.apple.com/us/genre/id1137"
+          }
+        ],
+        "url":"https://music.apple.com/us/album/gold-greatest-hits/1422648512?app=itunes"
+      },
+      {
+        "artistName":"Eagles",
+        "id":"635829435",
+        "releaseDate":"1976-02-17",
+        "name":"Their Greatest Hits 1971-1975",
+        "kind":"album",
+        "copyright":"℗ 1976 Elektra Records",
+        "artistId":"1053549",
+        "artistUrl":"https://music.apple.com/us/artist/eagles/1053549?app=itunes",
+        "artworkUrl100":"https://is2-ssl.mzstatic.com/image/thumb/Music2/v4/45/30/ec/4530eca5-2c0b-0325-6276-ec8131228ef6/081227979379.jpg/200x200bb.png",
+        "genres":[
+          {
+            "genreId":"21",
+            "name":"Rock",
+            "url":"https://itunes.apple.com/us/genre/id21"
+          },
+          {
+            "genreId":"34",
+            "name":"Music",
+            "url":"https://itunes.apple.com/us/genre/id34"
+          },
+          {
+            "genreId":"14",
+            "name":"Pop",
+            "url":"https://itunes.apple.com/us/genre/id14"
+          },
+          {
+            "genreId":"1133",
+            "name":"Pop/Rock",
+            "url":"https://itunes.apple.com/us/genre/id1133"
+          },
+          {
+            "genreId":"1146",
+            "name":"Arena Rock",
+            "url":"https://itunes.apple.com/us/genre/id1146"
+          },
+          {
+            "genreId":"1161",
+            "name":"Southern Rock",
+            "url":"https://itunes.apple.com/us/genre/id1161"
+          },
+          {
+            "genreId":"1134",
+            "name":"Soft Rock",
+            "url":"https://itunes.apple.com/us/genre/id1134"
+          }
+        ],
+        "url":"https://music.apple.com/us/album/their-greatest-hits-1971-1975/635829435?app=itunes"
+      },
+      {
+        "artistName":"Various Artists",
+        "id":"1440739123",
+        "releaseDate":"2018-02-16",
+        "name":"ZOMBIES (Original TV Movie Soundtrack)",
+        "kind":"album",
+        "copyright":"℗ 2018 Walt Disney Records",
+        "artistId":"36270",
+        "artistUrl":"https://music.apple.com/us/artist/various-artists/36270?app=itunes",
+        "artworkUrl100":"https://is4-ssl.mzstatic.com/image/thumb/Music128/v4/d6/0f/5b/d60f5bde-0bbb-1e35-4d80-4060b61b8ede/00050087384371.rgb.jpg/200x200bb.png",
+        "genres":[
+          {
+            "genreId":"16",
+            "name":"Soundtrack",
+            "url":"https://itunes.apple.com/us/genre/id16"
+          },
+          {
+            "genreId":"34",
+            "name":"Music",
+            "url":"https://itunes.apple.com/us/genre/id34"
+          }
+        ],
+        "url":"https://music.apple.com/us/album/zombies-original-tv-movie-soundtrack/1440739123?app=itunes"
+      },
+      {
+        "artistName":"Harry Nilsson",
+        "id":"1296522764",
+        "releaseDate":"1970-02-01",
+        "name":"Nilsson Sings Newman",
+        "kind":"album",
+        "copyright":"℗ Originally released 1970. All rights reserved by RCA Records, a division of Sony Music Entertainment",
+        "artistId":"216403",
+        "artistUrl":"https://music.apple.com/us/artist/harry-nilsson/216403?app=itunes",
+        "artworkUrl100":"https://is2-ssl.mzstatic.com/image/thumb/Music118/v4/1f/d8/22/1fd8225f-0075-1d20-c81b-4f865042dea0/886446722757.jpg/200x200bb.png",
+        "genres":[
+          {
+            "genreId":"14",
+            "name":"Pop",
+            "url":"https://itunes.apple.com/us/genre/id14"
+          },
+          {
+            "genreId":"34",
+            "name":"Music",
+            "url":"https://itunes.apple.com/us/genre/id34"
+          },
+          {
+            "genreId":"21",
+            "name":"Rock",
+            "url":"https://itunes.apple.com/us/genre/id21"
+          },
+          {
+            "genreId":"1160",
+            "name":"Singer/Songwriter",
+            "url":"https://itunes.apple.com/us/genre/id1160"
+          },
+          {
+            "genreId":"1131",
+            "name":"Adult Contemporary",
+            "url":"https://itunes.apple.com/us/genre/id1131"
+          },
+          {
+            "genreId":"1156",
+            "name":"Psychedelic",
+            "url":"https://itunes.apple.com/us/genre/id1156"
+          },
+          {
+            "genreId":"1133",
+            "name":"Pop/Rock",
+            "url":"https://itunes.apple.com/us/genre/id1133"
+          },
+          {
+            "genreId":"1134",
+            "name":"Soft Rock",
+            "url":"https://itunes.apple.com/us/genre/id1134"
+          }
+        ],
+        "url":"https://music.apple.com/us/album/nilsson-sings-newman/1296522764?app=itunes"
+      },
+      {
+        "artistName":"The Black Keys",
+        "id":"841098321",
+        "releaseDate":"2014-05-09",
+        "name":"Turn Blue",
+        "kind":"album",
+        "copyright":"℗ 2014 Nonesuch Records Inc.",
+        "artistId":"5893059",
+        "artistUrl":"https://music.apple.com/us/artist/the-black-keys/5893059?app=itunes",
+        "artworkUrl100":"https://is4-ssl.mzstatic.com/image/thumb/Features2/v4/f2/4d/09/f24d0906-0104-4239-fa9d-7a57fdff6ddc/dj.dqsomecl.jpg/200x200bb.png",
+        "genres":[
+          {
+            "genreId":"20",
+            "name":"Alternative",
+            "url":"https://itunes.apple.com/us/genre/id20"
+          },
+          {
+            "genreId":"34",
+            "name":"Music",
+            "url":"https://itunes.apple.com/us/genre/id34"
+          },
+          {
+            "genreId":"21",
+            "name":"Rock",
+            "url":"https://itunes.apple.com/us/genre/id21"
+          },
+          {
+            "genreId":"1147",
+            "name":"Blues-Rock",
+            "url":"https://itunes.apple.com/us/genre/id1147"
+          },
+          {
+            "genreId":"1144",
+            "name":"Adult Alternative",
+            "url":"https://itunes.apple.com/us/genre/id1144"
+          },
+          {
+            "genreId":"1004",
+            "name":"Indie Rock",
+            "url":"https://itunes.apple.com/us/genre/id1004"
+          },
+          {
+            "genreId":"1006",
+            "name":"Punk",
+            "url":"https://itunes.apple.com/us/genre/id1006"
+          }
+        ],
+        "url":"https://music.apple.com/us/album/turn-blue/841098321?app=itunes"
+      },
+      {
+        "artistName":"Carly Pearce",
+        "id":"1490649914",
+        "releaseDate":"2020-02-14",
+        "name":"Carly Pearce",
+        "kind":"album",
+        "copyright":"℗ 2020 Big Machine Label Group, LLC",
+        "artistId":"206684981",
+        "artistUrl":"https://music.apple.com/us/artist/carly-pearce/206684981?app=itunes",
+        "artworkUrl100":"https://is3-ssl.mzstatic.com/image/thumb/Music123/v4/77/10/92/77109211-2f0e-bac7-0208-9e01ee22a1fe/19OPBMR00956.rgb.jpg/200x200bb.png",
+        "genres":[
+          {
+            "genreId":"6",
+            "name":"Country",
+            "url":"https://itunes.apple.com/us/genre/id6"
+          },
+          {
+            "genreId":"34",
+            "name":"Music",
+            "url":"https://itunes.apple.com/us/genre/id34"
+          }
+        ],
+        "url":"https://music.apple.com/us/album/carly-pearce/1490649914?app=itunes"
+      },
+      {
+        "artistName":"Tones and I",
+        "id":"1475930038",
+        "releaseDate":"2019-08-29",
+        "name":"The Kids Are Coming - EP",
+        "kind":"album",
+        "copyright":"℗ 2019 Bad Batch Records under exclusive license to Elektra Records for the World excluding Australia and New Zealand.",
+        "artistId":"1452095785",
+        "artistUrl":"https://music.apple.com/us/artist/tones-and-i/1452095785?app=itunes",
+        "artworkUrl100":"https://is2-ssl.mzstatic.com/image/thumb/Music113/v4/40/e2/d1/40e2d103-dcd1-e406-cfe9-90eb3bb4a26b/075679839237.jpg/200x200bb.png",
+        "genres":[
+          {
+            "genreId":"20",
+            "name":"Alternative",
+            "url":"https://itunes.apple.com/us/genre/id20"
+          },
+          {
+            "genreId":"34",
+            "name":"Music",
+            "url":"https://itunes.apple.com/us/genre/id34"
+          }
+        ],
+        "url":"https://music.apple.com/us/album/the-kids-are-coming-ep/1475930038?app=itunes"
+      },
+      {
+        "artistName":"Creedence Clearwater Revival",
+        "id":"1440955595",
+        "releaseDate":"1976-01-01",
+        "name":"Chronicle: The 20 Greatest Hits",
+        "kind":"album",
+        "copyright":"This Compilation ℗ 2011 Concord Music Group, Inc.",
+        "artistId":"2083606",
+        "artistUrl":"https://music.apple.com/us/artist/creedence-clearwater-revival/2083606?app=itunes",
+        "artworkUrl100":"https://is4-ssl.mzstatic.com/image/thumb/Music128/v4/54/ca/ff/54caffae-2899-7a37-160c-c879cbdc86fd/00888072341630.rgb.jpg/200x200bb.png",
+        "genres":[
+          {
+            "genreId":"21",
+            "name":"Rock",
+            "url":"https://itunes.apple.com/us/genre/id21"
+          },
+          {
+            "genreId":"34",
+            "name":"Music",
+            "url":"https://itunes.apple.com/us/genre/id34"
+          },
+          {
+            "genreId":"1161",
+            "name":"Southern Rock",
+            "url":"https://itunes.apple.com/us/genre/id1161"
+          },
+          {
+            "genreId":"1157",
+            "name":"Rock \\u{0026} Roll",
+            "url":"https://itunes.apple.com/us/genre/id1157"
+          },
+          {
+            "genreId":"14",
+            "name":"Pop",
+            "url":"https://itunes.apple.com/us/genre/id14"
+          },
+          {
+            "genreId":"1133",
+            "name":"Pop/Rock",
+            "url":"https://itunes.apple.com/us/genre/id1133"
+          }
+        ],
+        "url":"https://music.apple.com/us/album/chronicle-the-20-greatest-hits/1440955595?app=itunes"
+      },
+      {
+        "artistName":"Paramore",
+        "id":"604804755",
+        "releaseDate":"2007-06-12",
+        "name":"Riot!",
+        "kind":"album",
+        "copyright":"℗ 2007 Atlantic Recording Corporation for the United States and WEA International Inc. for the world outside of the United States.  All Rights Reserved.",
+        "artistId":"75950796",
+        "artistUrl":"https://music.apple.com/us/artist/paramore/75950796?app=itunes",
+        "artworkUrl100":"https://is3-ssl.mzstatic.com/image/thumb/Music2/v4/2a/5b/83/2a5b8300-a511-2b3a-8a52-aa9936f78507/075679955005.jpg/200x200bb.png",
+        "genres":[
+          {
+            "genreId":"20",
+            "name":"Alternative",
+            "url":"https://itunes.apple.com/us/genre/id20"
+          },
+          {
+            "genreId":"34",
+            "name":"Music",
+            "url":"https://itunes.apple.com/us/genre/id34"
+          },
+          {
+            "genreId":"1006",
+            "name":"Punk",
+            "url":"https://itunes.apple.com/us/genre/id1006"
+          }
+        ],
+        "url":"https://music.apple.com/us/album/riot/604804755?app=itunes"
+      },
+      {
+        "artistName":"Luke Combs",
+        "id":"1376705241",
+        "releaseDate":"2018-06-01",
+        "name":"This One’s for You Too (Deluxe Edition)",
+        "kind":"album",
+        "copyright":"℗ 2018 River House Artists LLC, under exclusive license to Sony Music Entertainment",
+        "artistId":"815635315",
+        "artistUrl":"https://music.apple.com/us/artist/luke-combs/815635315?app=itunes",
+        "artworkUrl100":"https://is4-ssl.mzstatic.com/image/thumb/Music128/v4/fa/8d/22/fa8d22a8-4525-e073-46f7-7f6026578ea6/886447048443.jpg/200x200bb.png",
+        "genres":[
+          {
+            "genreId":"6",
+            "name":"Country",
+            "url":"https://itunes.apple.com/us/genre/id6"
+          },
+          {
+            "genreId":"34",
+            "name":"Music",
+            "url":"https://itunes.apple.com/us/genre/id34"
+          },
+          {
+            "genreId":"1039",
+            "name":"Honky Tonk",
+            "url":"https://itunes.apple.com/us/genre/id1039"
+          },
+          {
+            "genreId":"1037",
+            "name":"Contemporary Country",
+            "url":"https://itunes.apple.com/us/genre/id1037"
+          }
+        ],
+        "url":"https://music.apple.com/us/album/this-ones-for-you-too-deluxe-edition/1376705241?app=itunes"
+      },
+      {
+        "artistName":"Tyler Childers",
+        "id":"1462929670",
+        "releaseDate":"2019-08-02",
+        "name":"Country Squire",
+        "kind":"album",
+        "copyright":"℗ 2019 Hickman Holler Records, under exclusive license to RCA Records, a division of Sony Music Entertainment.",
+        "artistId":"473667472",
+        "artistUrl":"https://music.apple.com/us/artist/tyler-childers/473667472?app=itunes",
+        "artworkUrl100":"https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/da/b8/04/dab804d9-4e04-68cb-bfbd-c65afa6c3e36/886447696750.jpg/200x200bb.png",
+        "genres":[
+          {
+            "genreId":"6",
+            "name":"Country",
+            "url":"https://itunes.apple.com/us/genre/id6"
+          },
+          {
+            "genreId":"34",
+            "name":"Music",
+            "url":"https://itunes.apple.com/us/genre/id34"
+          },
+          {
+            "genreId":"21",
+            "name":"Rock",
+            "url":"https://itunes.apple.com/us/genre/id21"
+          }
+        ],
+        "url":"https://music.apple.com/us/album/country-squire/1462929670?app=itunes"
+      },
+      {
+        "artistName":"Selena Gomez",
+        "id":"1488413282",
+        "releaseDate":"2020-01-10",
+        "name":"SG2",
+        "kind":"album",
+        "copyright":"℗ 2019 Interscope Records",
+        "artistId":"280215834",
+        "artistUrl":"https://music.apple.com/us/artist/selena-gomez/280215834?app=itunes",
+        "artworkUrl100":"https://is5-ssl.mzstatic.com/image/thumb/Music123/v4/58/21/c7/5821c763-7b61-844d-bc71-2b34ba24262e/19UM1IM04673.rgb.jpg/200x200bb.png",
+        "genres":[
+          {
+            "genreId":"14",
+            "name":"Pop",
+            "url":"https://itunes.apple.com/us/genre/id14"
+          },
+          {
+            "genreId":"34",
+            "name":"Music",
+            "url":"https://itunes.apple.com/us/genre/id34"
+          }
+        ],
+        "url":"https://music.apple.com/us/album/sg2/1488413282?app=itunes"
+      },
+      {
+        "artistName":"NF",
+        "id":"1470132470",
+        "releaseDate":"2019-07-26",
+        "name":"The Search",
+        "kind":"album",
+        "copyright":"℗ 2019 NF Real Music, LLC",
+        "artistId":"898094630",
+        "artistUrl":"https://music.apple.com/us/artist/nf/898094630?app=itunes",
+        "artworkUrl100":"https://is2-ssl.mzstatic.com/image/thumb/Music113/v4/bb/ef/fb/bbeffb1f-55fa-0a14-ae30-672f804c4d7f/19UMGIM46307.rgb.jpg/200x200bb.png",
+        "genres":[
+          {
+            "genreId":"18",
+            "name":"Hip-Hop/Rap",
+            "url":"https://itunes.apple.com/us/genre/id18"
+          },
+          {
+            "genreId":"34",
+            "name":"Music",
+            "url":"https://itunes.apple.com/us/genre/id34"
+          },
+          {
+            "genreId":"1076",
+            "name":"Rap",
+            "url":"https://itunes.apple.com/us/genre/id1076"
+          }
+        ],
+        "url":"https://music.apple.com/us/album/the-search/1470132470?app=itunes"
+      },
+      {
+        "artistName":"Jason Aldean",
+        "id":"1478613775",
+        "releaseDate":"2019-11-22",
+        "name":"9",
+        "kind":"album",
+        "copyright":"℗ 2019 Macon Music, LLC under exclusive license to Broken Bow Records",
+        "artistId":"63684710",
+        "artistUrl":"https://music.apple.com/us/artist/jason-aldean/63684710?app=itunes",
+        "artworkUrl100":"https://is3-ssl.mzstatic.com/image/thumb/Music113/v4/d8/fc/64/d8fc642a-7d9d-dca3-b25b-056ee5a731c9/4050538532920.jpg/200x200bb.png",
+        "genres":[
+          {
+            "genreId":"6",
+            "name":"Country",
+            "url":"https://itunes.apple.com/us/genre/id6"
+          },
+          {
+            "genreId":"34",
+            "name":"Music",
+            "url":"https://itunes.apple.com/us/genre/id34"
+          }
+        ],
+        "url":"https://music.apple.com/us/album/9/1478613775?app=itunes"
+      },
+      {
+        "artistName":"Riley Green",
+        "id":"1479127841",
+        "releaseDate":"2019-09-20",
+        "name":"Different 'Round Here",
+        "kind":"album",
+        "copyright":"℗ 2019 Big Machine Label Group, LLC",
+        "artistId":"662432971",
+        "artistUrl":"https://music.apple.com/us/artist/riley-green/662432971?app=itunes",
+        "artworkUrl100":"https://is4-ssl.mzstatic.com/image/thumb/Music113/v4/24/54/f1/2454f15a-6c15-5684-37df-7135be3f586f/19OPBMR00755.rgb.jpg/200x200bb.png",
+        "genres":[
+          {
+            "genreId":"6",
+            "name":"Country",
+            "url":"https://itunes.apple.com/us/genre/id6"
+          },
+          {
+            "genreId":"34",
+            "name":"Music",
+            "url":"https://itunes.apple.com/us/genre/id34"
+          }
+        ],
+        "url":"https://music.apple.com/us/album/different-round-here/1479127841?app=itunes"
+      },
+      {
+        "artistName":"The Beatles",
+        "id":"1440833098",
+        "releaseDate":"2000-11-13",
+        "name":"1 (2015 Version)",
+        "kind":"album",
+        "copyright":"This Compilation ℗ 2015 Calderstone Productions Limited (a division of Universal Music Group) / Apple Corps Ltd.",
+        "artistId":"136975",
+        "artistUrl":"https://music.apple.com/us/artist/the-beatles/136975?app=itunes",
+        "artworkUrl100":"https://is5-ssl.mzstatic.com/image/thumb/Music118/v4/52/54/0d/52540d65-3476-bb86-832f-16277137e44b/00602547657725.rgb.jpg/200x200bb.png",
+        "genres":[
+          {
+            "genreId":"21",
+            "name":"Rock",
+            "url":"https://itunes.apple.com/us/genre/id21"
+          },
+          {
+            "genreId":"34",
+            "name":"Music",
+            "url":"https://itunes.apple.com/us/genre/id34"
+          },
+          {
+            "genreId":"1157",
+            "name":"Rock \\u{0026} Roll",
+            "url":"https://itunes.apple.com/us/genre/id1157"
+          },
+          {
+            "genreId":"14",
+            "name":"Pop",
+            "url":"https://itunes.apple.com/us/genre/id14"
+          },
+          {
+            "genreId":"1146",
+            "name":"Arena Rock",
+            "url":"https://itunes.apple.com/us/genre/id1146"
+          },
+          {
+            "genreId":"1156",
+            "name":"Psychedelic",
+            "url":"https://itunes.apple.com/us/genre/id1156"
+          },
+          {
+            "genreId":"1148",
+            "name":"British Invasion",
+            "url":"https://itunes.apple.com/us/genre/id1148"
+          },
+          {
+            "genreId":"1134",
+            "name":"Soft Rock",
+            "url":"https://itunes.apple.com/us/genre/id1134"
+          },
+          {
+            "genreId":"10",
+            "name":"Singer/Songwriter",
+            "url":"https://itunes.apple.com/us/genre/id10"
+          },
+          {
+            "genreId":"1065",
+            "name":"Folk-Rock",
+            "url":"https://itunes.apple.com/us/genre/id1065"
+          },
+          {
+            "genreId":"1133",
+            "name":"Pop/Rock",
+            "url":"https://itunes.apple.com/us/genre/id1133"
+          }
+        ],
+        "url":"https://music.apple.com/us/album/1-2015-version/1440833098?app=itunes"
+      },
+      {
+        "artistName":"Muse",
+        "id":"991509751",
+        "releaseDate":"2009-09-11",
+        "name":"The Resistance",
+        "kind":"album",
+        "copyright":"℗ 2009 Warner Music UK Limited",
+        "artistId":"1093360",
+        "artistUrl":"https://music.apple.com/us/artist/muse/1093360?app=itunes",
+        "artworkUrl100":"https://is3-ssl.mzstatic.com/image/thumb/Music7/v4/c7/f1/5f/c7f15f25-55c1-9223-e90a-e4f8aa6ef58a/825646092666.jpg/200x200bb.png",
+        "genres":[
+          {
+            "genreId":"20",
+            "name":"Alternative",
+            "url":"https://itunes.apple.com/us/genre/id20"
+          },
+          {
+            "genreId":"34",
+            "name":"Music",
+            "url":"https://itunes.apple.com/us/genre/id34"
+          },
+          {
+            "genreId":"21",
+            "name":"Rock",
+            "url":"https://itunes.apple.com/us/genre/id21"
+          },
+          {
+            "genreId":"1155",
+            "name":"Prog-Rock/Art Rock",
+            "url":"https://itunes.apple.com/us/genre/id1155"
+          },
+          {
+            "genreId":"1144",
+            "name":"Adult Alternative",
+            "url":"https://itunes.apple.com/us/genre/id1144"
+          }
+        ],
+        "url":"https://music.apple.com/us/album/the-resistance/991509751?app=itunes"
+      },
+      {
+        "artistName":"Little Big Town",
+        "id":"1485323217",
+        "releaseDate":"2020-01-17",
+        "name":"Nightfall",
+        "kind":"album",
+        "copyright":"A Capitol Records Nashville Release; ℗ 2019 Little Big Town, LLC, under exclusive license to UMG Recordings, Inc.",
+        "artistId":"513770",
+        "artistUrl":"https://music.apple.com/us/artist/little-big-town/513770?app=itunes",
+        "artworkUrl100":"https://is3-ssl.mzstatic.com/image/thumb/Music113/v4/9c/c9/e5/9cc9e5ac-5731-867a-4a4f-5ebb616af4e8/19UMGIM77960.rgb.jpg/200x200bb.png",
+        "genres":[
+          {
+            "genreId":"6",
+            "name":"Country",
+            "url":"https://itunes.apple.com/us/genre/id6"
+          },
+          {
+            "genreId":"34",
+            "name":"Music",
+            "url":"https://itunes.apple.com/us/genre/id34"
+          }
+        ],
+        "url":"https://music.apple.com/us/album/nightfall/1485323217?app=itunes"
+      },
+      {
+        "artistName":"Miranda Lambert",
+        "id":"1475872912",
+        "releaseDate":"2019-11-01",
+        "name":"Wildcard",
+        "kind":"album",
+        "copyright":"℗ 2019 Vanner Records, LLC, under exclusive license to Sony Music Entertainment. All rights reserved.",
+        "artistId":"18732261",
+        "artistUrl":"https://music.apple.com/us/artist/miranda-lambert/18732261?app=itunes",
+        "artworkUrl100":"https://is2-ssl.mzstatic.com/image/thumb/Music123/v4/ff/d3/b8/ffd3b8fe-0061-38c1-54da-0feb55023f82/886447882511.jpg/200x200bb.png",
+        "genres":[
+          {
+            "genreId":"6",
+            "name":"Country",
+            "url":"https://itunes.apple.com/us/genre/id6"
+          },
+          {
+            "genreId":"34",
+            "name":"Music",
+            "url":"https://itunes.apple.com/us/genre/id34"
+          }
+        ],
+        "url":"https://music.apple.com/us/album/wildcard/1475872912?app=itunes"
+      },
+      {
+        "artistName":"Metallica",
+        "id":"579372950",
+        "releaseDate":"1991-08-12",
+        "name":"Metallica",
+        "kind":"album",
+        "copyright":"℗ 1991 Blackened Recordings",
+        "artistId":"3996865",
+        "artistUrl":"https://music.apple.com/us/artist/metallica/3996865?app=itunes",
+        "artworkUrl100":"https://is5-ssl.mzstatic.com/image/thumb/Music/v4/9a/41/03/9a410309-7dbe-fce4-a6be-43101f0a1352/0093624986553.jpg/200x200bb.png",
+        "genres":[
+          {
+            "genreId":"1153",
+            "name":"Metal",
+            "url":"https://itunes.apple.com/us/genre/id1153"
+          },
+          {
+            "genreId":"34",
+            "name":"Music",
+            "url":"https://itunes.apple.com/us/genre/id34"
+          },
+          {
+            "genreId":"21",
+            "name":"Rock",
+            "url":"https://itunes.apple.com/us/genre/id21"
+          },
+          {
+            "genreId":"1152",
+            "name":"Hard Rock",
+            "url":"https://itunes.apple.com/us/genre/id1152"
+          }
+        ],
+        "url":"https://music.apple.com/us/album/metallica/579372950?app=itunes"
+      },
+      {
+        "artistName":"Huey Lewis \\u{0026} The News",
+        "id":"725784933",
+        "releaseDate":"2006-05-23",
+        "name":"Greatest Hits (Remastered)",
+        "kind":"album",
+        "copyright":"This Compilation ℗ 2006 Capitol Records Inc.",
+        "artistId":"13793427",
+        "artistUrl":"https://music.apple.com/us/artist/huey-lewis-the-news/13793427?app=itunes",
+        "artworkUrl100":"https://is4-ssl.mzstatic.com/image/thumb/Music128/v4/6d/39/c9/6d39c958-59b4-129a-e986-37025922ae4a/00094636299655.rgb.jpg/200x200bb.png",
+        "genres":[
+          {
+            "genreId":"21",
+            "name":"Rock",
+            "url":"https://itunes.apple.com/us/genre/id21"
+          },
+          {
+            "genreId":"34",
+            "name":"Music",
+            "url":"https://itunes.apple.com/us/genre/id34"
+          }
+        ],
+        "url":"https://music.apple.com/us/album/greatest-hits-remastered/725784933?app=itunes"
+      },
+      {
+        "artistName":"Tom Petty \\u{0026} The Heartbreakers",
+        "id":"1469579555",
+        "releaseDate":"1993-11-16",
+        "name":"Greatest Hits",
+        "kind":"album",
+        "copyright":"This Compilation ℗ 2014 Geffen Records",
+        "artistId":"161527",
+        "artistUrl":"https://music.apple.com/us/artist/tom-petty-the-heartbreakers/161527?app=itunes",
+        "artworkUrl100":"https://is5-ssl.mzstatic.com/image/thumb/Music113/v4/87/0e/cc/870ecccd-a217-4204-33c0-e2909c35565f/15UMGIM69649.rgb.jpg/200x200bb.png",
+        "genres":[
+          {
+            "genreId":"21",
+            "name":"Rock",
+            "url":"https://itunes.apple.com/us/genre/id21"
+          },
+          {
+            "genreId":"34",
+            "name":"Music",
+            "url":"https://itunes.apple.com/us/genre/id34"
+          },
+          {
+            "genreId":"1159",
+            "name":"Roots Rock",
+            "url":"https://itunes.apple.com/us/genre/id1159"
+          },
+          {
+            "genreId":"1145",
+            "name":"American Trad Rock",
+            "url":"https://itunes.apple.com/us/genre/id1145"
+          }
+        ],
+        "url":"https://music.apple.com/us/album/greatest-hits/1469579555?app=itunes"
+      },
+      {
+        "artistName":"Muse",
+        "id":"992221994",
+        "releaseDate":"2006-06-19",
+        "name":"Black Holes and Revelations",
+        "kind":"album",
+        "copyright":"℗ 2006 A\\u{0026}E Records Limited",
+        "artistId":"1093360",
+        "artistUrl":"https://music.apple.com/us/artist/muse/1093360?app=itunes",
+        "artworkUrl100":"https://is2-ssl.mzstatic.com/image/thumb/Music7/v4/65/d4/76/65d476cf-3099-fba9-741d-adc47d57afc3/825646095452.jpg/200x200bb.png",
+        "genres":[
+          {
+            "genreId":"20",
+            "name":"Alternative",
+            "url":"https://itunes.apple.com/us/genre/id20"
+          },
+          {
+            "genreId":"34",
+            "name":"Music",
+            "url":"https://itunes.apple.com/us/genre/id34"
+          },
+          {
+            "genreId":"21",
+            "name":"Rock",
+            "url":"https://itunes.apple.com/us/genre/id21"
+          },
+          {
+            "genreId":"1155",
+            "name":"Prog-Rock/Art Rock",
+            "url":"https://itunes.apple.com/us/genre/id1155"
+          },
+          {
+            "genreId":"1144",
+            "name":"Adult Alternative",
+            "url":"https://itunes.apple.com/us/genre/id1144"
+          }
+        ],
+        "url":"https://music.apple.com/us/album/black-holes-and-revelations/992221994?app=itunes"
+      },
+      {
+        "artistName":"KALEO",
+        "id":"1107254993",
+        "releaseDate":"2016-06-10",
+        "name":"A / B",
+        "kind":"album",
+        "copyright":"℗ 2016 Elektra/Atlantic Records for the United States and WEA International Inc. for the world excluding the United States and Iceland",
+        "artistId":"960112019",
+        "artistUrl":"https://music.apple.com/us/artist/kaleo/960112019?app=itunes",
+        "artworkUrl100":"https://is4-ssl.mzstatic.com/image/thumb/Music30/v4/25/5f/59/255f59c0-a572-0393-39fa-42bb24a0c55c/075679911506.jpg/200x200bb.png",
+        "genres":[
+          {
+            "genreId":"20",
+            "name":"Alternative",
+            "url":"https://itunes.apple.com/us/genre/id20"
+          },
+          {
+            "genreId":"34",
+            "name":"Music",
+            "url":"https://itunes.apple.com/us/genre/id34"
+          },
+          {
+            "genreId":"1004",
+            "name":"Indie Rock",
+            "url":"https://itunes.apple.com/us/genre/id1004"
+          },
+          {
+            "genreId":"21",
+            "name":"Rock",
+            "url":"https://itunes.apple.com/us/genre/id21"
+          }
+        ],
+        "url":"https://music.apple.com/us/album/a-b/1107254993?app=itunes"
+      },
+      {
+        "artistName":"KIDZ BOP Kids",
+        "id":"1482051223",
+        "releaseDate":"2019-11-15",
+        "name":"Kidz Bop 40",
+        "kind":"album",
+        "copyright":"℗ 2019 Kidz Bop Enterprises LLC., Distributed by Concord.",
+        "artistId":"3628117",
+        "artistUrl":"https://music.apple.com/us/artist/kidz-bop-kids/3628117?app=itunes",
+        "artworkUrl100":"https://is4-ssl.mzstatic.com/image/thumb/Music113/v4/fd/c9/47/fdc9479c-a95b-cdef-dea8-64fd09f56724/19CRGIM10227.rgb.jpg/200x200bb.png",
+        "genres":[
+          {
+            "genreId":"4",
+            "name":"Children's Music",
+            "url":"https://itunes.apple.com/us/genre/id4"
+          },
+          {
+            "genreId":"34",
+            "name":"Music",
+            "url":"https://itunes.apple.com/us/genre/id34"
+          }
+        ],
+        "url":"https://music.apple.com/us/album/kidz-bop-40/1482051223?app=itunes"
+      },
+      {
+        "artistName":"The Rolling Stones",
+        "id":"1440764786",
+        "releaseDate":"1971-12-20",
+        "name":"Hot Rocks 1964-1971",
+        "kind":"album",
+        "copyright":"℗ 2013 ABKCO Music \\u{0026} Records, Inc.",
+        "artistId":"1249595",
+        "artistUrl":"https://music.apple.com/us/artist/the-rolling-stones/1249595?app=itunes",
+        "artworkUrl100":"https://is2-ssl.mzstatic.com/image/thumb/Music128/v4/b3/a2/32/b3a232da-6c1d-c07e-5633-40e74ad026c2/00018771895725.rgb.jpg/200x200bb.png",
+        "genres":[
+          {
+            "genreId":"21",
+            "name":"Rock",
+            "url":"https://itunes.apple.com/us/genre/id21"
+          },
+          {
+            "genreId":"34",
+            "name":"Music",
+            "url":"https://itunes.apple.com/us/genre/id34"
+          },
+          {
+            "genreId":"1148",
+            "name":"British Invasion",
+            "url":"https://itunes.apple.com/us/genre/id1148"
+          },
+          {
+            "genreId":"14",
+            "name":"Pop",
+            "url":"https://itunes.apple.com/us/genre/id14"
+          },
+          {
+            "genreId":"1134",
+            "name":"Soft Rock",
+            "url":"https://itunes.apple.com/us/genre/id1134"
+          },
+          {
+            "genreId":"1152",
+            "name":"Hard Rock",
+            "url":"https://itunes.apple.com/us/genre/id1152"
+          },
+          {
+            "genreId":"1157",
+            "name":"Rock \\u{0026} Roll",
+            "url":"https://itunes.apple.com/us/genre/id1157"
+          },
+          {
+            "genreId":"1133",
+            "name":"Pop/Rock",
+            "url":"https://itunes.apple.com/us/genre/id1133"
+          },
+          {
+            "genreId":"1147",
+            "name":"Blues-Rock",
+            "url":"https://itunes.apple.com/us/genre/id1147"
+          },
+          {
+            "genreId":"1146",
+            "name":"Arena Rock",
+            "url":"https://itunes.apple.com/us/genre/id1146"
+          },
+          {
+            "genreId":"2",
+            "name":"Blues",
+            "url":"https://itunes.apple.com/us/genre/id2"
+          },
+          {
+            "genreId":"1156",
+            "name":"Psychedelic",
+            "url":"https://itunes.apple.com/us/genre/id1156"
+          },
+          {
+            "genreId":"1011",
+            "name":"Country Blues",
+            "url":"https://itunes.apple.com/us/genre/id1011"
+          }
+        ],
+        "url":"https://music.apple.com/us/album/hot-rocks-1964-1971/1440764786?app=itunes"
+      },
+      {
+        "artistName":"Death Cab for Cutie",
+        "id":"966379289",
+        "releaseDate":"2005-08-29",
+        "name":"Plans",
+        "kind":"album",
+        "copyright":"℗ 2005 Atlantic Recording Corporation for the United States and WEA International Inc. for the world outside of the United States. A Warner Music Group Company",
+        "artistId":"5448636",
+        "artistUrl":"https://music.apple.com/us/artist/death-cab-for-cutie/5448636?app=itunes",
+        "artworkUrl100":"https://is2-ssl.mzstatic.com/image/thumb/Music5/v4/20/1a/c2/201ac2c4-4aef-261a-7af0-61f8f7afa31d/075679930491.jpg/200x200bb.png",
+        "genres":[
+          {
+            "genreId":"20",
+            "name":"Alternative",
+            "url":"https://itunes.apple.com/us/genre/id20"
+          },
+          {
+            "genreId":"34",
+            "name":"Music",
+            "url":"https://itunes.apple.com/us/genre/id34"
+          },
+          {
+            "genreId":"21",
+            "name":"Rock",
+            "url":"https://itunes.apple.com/us/genre/id21"
+          },
+          {
+            "genreId":"14",
+            "name":"Pop",
+            "url":"https://itunes.apple.com/us/genre/id14"
+          },
+          {
+            "genreId":"1144",
+            "name":"Adult Alternative",
+            "url":"https://itunes.apple.com/us/genre/id1144"
+          },
+          {
+            "genreId":"1132",
+            "name":"Britpop",
+            "url":"https://itunes.apple.com/us/genre/id1132"
+          },
+          {
+            "genreId":"1004",
+            "name":"Indie Rock",
+            "url":"https://itunes.apple.com/us/genre/id1004"
+          }
+        ],
+        "url":"https://music.apple.com/us/album/plans/966379289?app=itunes"
+      },
+      {
+        "artistName":"Frank Sinatra",
+        "id":"1440858119",
+        "releaseDate":"2008-05-13",
+        "name":"Nothing But the Best (Remastered)",
+        "kind":"album",
+        "copyright":"℗ 2008 Frank Sinatra Enterprises, LLC",
+        "artistId":"171366",
+        "artistUrl":"https://music.apple.com/us/artist/frank-sinatra/171366?app=itunes",
+        "artworkUrl100":"https://is2-ssl.mzstatic.com/image/thumb/Music128/v4/54/00/9d/54009d26-05c7-ee06-2ab3-eadb597a1b9d/00602537596379.rgb.jpg/200x200bb.png",
+        "genres":[
+          {
+            "genreId":"1176",
+            "name":"Vocal Pop",
+            "url":"https://itunes.apple.com/us/genre/id1176"
+          },
+          {
+            "genreId":"34",
+            "name":"Music",
+            "url":"https://itunes.apple.com/us/genre/id34"
+          },
+          {
+            "genreId":"23",
+            "name":"Vocal",
+            "url":"https://itunes.apple.com/us/genre/id23"
+          },
+          {
+            "genreId":"21",
+            "name":"Rock",
+            "url":"https://itunes.apple.com/us/genre/id21"
+          },
+          {
+            "genreId":"11",
+            "name":"Jazz",
+            "url":"https://itunes.apple.com/us/genre/id11"
+          },
+          {
+            "genreId":"1175",
+            "name":"Vocal Jazz",
+            "url":"https://itunes.apple.com/us/genre/id1175"
+          },
+          {
+            "genreId":"1173",
+            "name":"Standards",
+            "url":"https://itunes.apple.com/us/genre/id1173"
+          },
+          {
+            "genreId":"1174",
+            "name":"Traditional Pop",
+            "url":"https://itunes.apple.com/us/genre/id1174"
+          }
+        ],
+        "url":"https://music.apple.com/us/album/nothing-but-the-best-remastered/1440858119?app=itunes"
+      },
+      {
+        "artistName":"Allie X",
+        "id":"1486659663",
+        "releaseDate":"2020-02-21",
+        "name":"Cape God",
+        "kind":"album",
+        "copyright":"℗ 2020 Twin Music Inc, distributed by AWAL",
+        "artistId":"833547075",
+        "artistUrl":"https://music.apple.com/us/artist/allie-x/833547075?app=itunes",
+        "artworkUrl100":"https://is4-ssl.mzstatic.com/image/thumb/Music113/v4/cf/c3/fe/cfc3fed8-e7cf-c41b-85d9-ed73b3e70342/5056167119791_1.jpg/200x200bb.png",
+        "genres":[
+          {
+            "genreId":"14",
+            "name":"Pop",
+            "url":"https://itunes.apple.com/us/genre/id14"
+          },
+          {
+            "genreId":"34",
+            "name":"Music",
+            "url":"https://itunes.apple.com/us/genre/id34"
+          }
+        ],
+        "url":"https://music.apple.com/us/album/cape-god/1486659663?app=itunes"
+      },
+      {
+        "artistName":"Taylor Swift",
+        "id":"1440933849",
+        "releaseDate":"2017-11-10",
+        "name":"reputation",
+        "kind":"album",
+        "copyright":"℗ 2017 Big Machine Label Group, LLC",
+        "artistId":"159260351",
+        "artistUrl":"https://music.apple.com/us/artist/taylor-swift/159260351?app=itunes",
+        "artworkUrl100":"https://is4-ssl.mzstatic.com/image/thumb/Music118/v4/0b/c3/63/0bc363c3-c0a2-7526-ac4a-82de7483ba64/00843930033133.rgb.jpg/200x200bb.png",
+        "genres":[
+          {
+            "genreId":"14",
+            "name":"Pop",
+            "url":"https://itunes.apple.com/us/genre/id14"
+          },
+          {
+            "genreId":"34",
+            "name":"Music",
+            "url":"https://itunes.apple.com/us/genre/id34"
+          }
+        ],
+        "url":"https://music.apple.com/us/album/reputation/1440933849?app=itunes"
+      },
+      {
+        "artistName":"Queen",
+        "id":"1440650428",
+        "releaseDate":"2000-11-13",
+        "name":"The Platinum Collection (Greatest Hits I, II \\u{0026} III)",
+        "kind":"album",
+        "copyright":"℗ 2014 Hollywood Records, Inc.",
+        "artistId":"3296287",
+        "artistUrl":"https://music.apple.com/us/artist/queen/3296287?app=itunes",
+        "artworkUrl100":"https://is3-ssl.mzstatic.com/image/thumb/Music118/v4/9e/65/ef/9e65ef3a-4c0c-ed55-6161-4d2946a9235e/00050087319090.rgb.jpg/200x200bb.png",
+        "genres":[
+          {
+            "genreId":"21",
+            "name":"Rock",
+            "url":"https://itunes.apple.com/us/genre/id21"
+          },
+          {
+            "genreId":"34",
+            "name":"Music",
+            "url":"https://itunes.apple.com/us/genre/id34"
+          },
+          {
+            "genreId":"1146",
+            "name":"Arena Rock",
+            "url":"https://itunes.apple.com/us/genre/id1146"
+          },
+          {
+            "genreId":"14",
+            "name":"Pop",
+            "url":"https://itunes.apple.com/us/genre/id14"
+          },
+          {
+            "genreId":"1133",
+            "name":"Pop/Rock",
+            "url":"https://itunes.apple.com/us/genre/id1133"
+          },
+          {
+            "genreId":"1152",
+            "name":"Hard Rock",
+            "url":"https://itunes.apple.com/us/genre/id1152"
+          },
+          {
+            "genreId":"1153",
+            "name":"Metal",
+            "url":"https://itunes.apple.com/us/genre/id1153"
+          },
+          {
+            "genreId":"1150",
+            "name":"Glam Rock",
+            "url":"https://itunes.apple.com/us/genre/id1150"
+          }
+        ],
+        "url":"https://music.apple.com/us/album/the-platinum-collection-greatest-hits-i-ii-iii/1440650428?app=itunes"
+      },
+      {
+        "artistName":"Paramore",
+        "id":"604800411",
+        "releaseDate":"2009-09-29",
+        "name":"Brand New Eyes",
+        "kind":"album",
+        "copyright":"℗ 2009 Atlantic Recording Corporation for the United States and WEA International Inc. for the world outside of the United States.",
+        "artistId":"75950796",
+        "artistUrl":"https://music.apple.com/us/artist/paramore/75950796?app=itunes",
+        "artworkUrl100":"https://is2-ssl.mzstatic.com/image/thumb/Music62/v4/c7/fc/63/c7fc637e-b173-bea0-766e-2ae364c38dd9/dj.qnyuzqoy.jpg/200x200bb.png",
+        "genres":[
+          {
+            "genreId":"20",
+            "name":"Alternative",
+            "url":"https://itunes.apple.com/us/genre/id20"
+          },
+          {
+            "genreId":"34",
+            "name":"Music",
+            "url":"https://itunes.apple.com/us/genre/id34"
+          },
+          {
+            "genreId":"21",
+            "name":"Rock",
+            "url":"https://itunes.apple.com/us/genre/id21"
+          },
+          {
+            "genreId":"1144",
+            "name":"Adult Alternative",
+            "url":"https://itunes.apple.com/us/genre/id1144"
+          }
+        ],
+        "url":"https://music.apple.com/us/album/brand-new-eyes/604800411?app=itunes"
+      },
+      {
+        "artistName":"MONSTA X",
+        "id":"1490183398",
+        "releaseDate":"2020-02-14",
+        "name":"ALL ABOUT LUV",
+        "kind":"album",
+        "copyright":"℗ 2020 Epic Records, a division of Sony Music Entertainment",
+        "artistId":"992315362",
+        "artistUrl":"https://music.apple.com/us/artist/monsta-x/992315362?app=itunes",
+        "artworkUrl100":"https://is2-ssl.mzstatic.com/image/thumb/Music113/v4/81/a1/bd/81a1bdc8-64b5-d439-539d-0d93dcfa8f5c/886448033165.jpg/200x200bb.png",
+        "genres":[
+          {
+            "genreId":"14",
+            "name":"Pop",
+            "url":"https://itunes.apple.com/us/genre/id14"
+          },
+          {
+            "genreId":"34",
+            "name":"Music",
+            "url":"https://itunes.apple.com/us/genre/id34"
+          }
+        ],
+        "url":"https://music.apple.com/us/album/all-about-luv/1490183398?app=itunes"
+      },
+      {
+        "artistName":"James Taylor",
+        "id":"320083830",
+        "releaseDate":"1976-11-01",
+        "name":"Greatest Hits, Vol. 1",
+        "kind":"album",
+        "copyright":"℗ 1988 Warner Records Inc.",
+        "artistId":"207815",
+        "artistUrl":"https://music.apple.com/us/artist/james-taylor/207815?app=itunes",
+        "artworkUrl100":"https://is3-ssl.mzstatic.com/image/thumb/Music/02/16/dd/mzi.modzlreh.jpg/200x200bb.png",
+        "genres":[
+          {
+            "genreId":"10",
+            "name":"Singer/Songwriter",
+            "url":"https://itunes.apple.com/us/genre/id10"
+          },
+          {
+            "genreId":"34",
+            "name":"Music",
+            "url":"https://itunes.apple.com/us/genre/id34"
+          },
+          {
+            "genreId":"14",
+            "name":"Pop",
+            "url":"https://itunes.apple.com/us/genre/id14"
+          },
+          {
+            "genreId":"1131",
+            "name":"Adult Contemporary",
+            "url":"https://itunes.apple.com/us/genre/id1131"
+          },
+          {
+            "genreId":"1133",
+            "name":"Pop/Rock",
+            "url":"https://itunes.apple.com/us/genre/id1133"
+          },
+          {
+            "genreId":"1065",
+            "name":"Folk-Rock",
+            "url":"https://itunes.apple.com/us/genre/id1065"
+          },
+          {
+            "genreId":"21",
+            "name":"Rock",
+            "url":"https://itunes.apple.com/us/genre/id21"
+          },
+          {
+            "genreId":"1134",
+            "name":"Soft Rock",
+            "url":"https://itunes.apple.com/us/genre/id1134"
+          },
+          {
+            "genreId":"1160",
+            "name":"Singer/Songwriter",
+            "url":"https://itunes.apple.com/us/genre/id1160"
+          },
+          {
+            "genreId":"1156",
+            "name":"Psychedelic",
+            "url":"https://itunes.apple.com/us/genre/id1156"
+          }
+        ],
+        "url":"https://music.apple.com/us/album/greatest-hits-vol-1/320083830?app=itunes"
+      },
+      {
+        "artistName":"Elton John",
+        "id":"1422632224",
+        "releaseDate":"2017-11-10",
+        "name":"Diamonds (Deluxe)",
+        "kind":"album",
+        "copyright":"A Virgin EMI Records Release; This Compilation ℗ 2017 Universal Music Operations Limited",
+        "artistId":"54657",
+        "artistUrl":"https://music.apple.com/us/artist/elton-john/54657?app=itunes",
+        "artworkUrl100":"https://is3-ssl.mzstatic.com/image/thumb/Music123/v4/02/49/14/0249144b-e948-23e3-5262-0a39ca9623db/17UM1IM17132.rgb.jpg/200x200bb.png",
+        "genres":[
+          {
+            "genreId":"14",
+            "name":"Pop",
+            "url":"https://itunes.apple.com/us/genre/id14"
+          },
+          {
+            "genreId":"34",
+            "name":"Music",
+            "url":"https://itunes.apple.com/us/genre/id34"
+          },
+          {
+            "genreId":"21",
+            "name":"Rock",
+            "url":"https://itunes.apple.com/us/genre/id21"
+          },
+          {
+            "genreId":"1134",
+            "name":"Soft Rock",
+            "url":"https://itunes.apple.com/us/genre/id1134"
+          },
+          {
+            "genreId":"1131",
+            "name":"Adult Contemporary",
+            "url":"https://itunes.apple.com/us/genre/id1131"
+          },
+          {
+            "genreId":"1146",
+            "name":"Arena Rock",
+            "url":"https://itunes.apple.com/us/genre/id1146"
+          },
+          {
+            "genreId":"1133",
+            "name":"Pop/Rock",
+            "url":"https://itunes.apple.com/us/genre/id1133"
+          },
+          {
+            "genreId":"1160",
+            "name":"Singer/Songwriter",
+            "url":"https://itunes.apple.com/us/genre/id1160"
+          }
+        ],
+        "url":"https://music.apple.com/us/album/diamonds-deluxe/1422632224?app=itunes"
+      },
+      {
+        "artistName":"Old Dominion",
+        "id":"1476032694",
+        "releaseDate":"2019-10-25",
+        "name":"Old Dominion",
+        "kind":"album",
+        "copyright":"℗ 2019 Sony Music Entertainment. All rights reserved.",
+        "artistId":"495761008",
+        "artistUrl":"https://music.apple.com/us/artist/old-dominion/495761008?app=itunes",
+        "artworkUrl100":"https://is3-ssl.mzstatic.com/image/thumb/Music113/v4/f0/d1/19/f0d11971-b183-5886-dc09-345ecf701df7/886447882528.jpg/200x200bb.png",
+        "genres":[
+          {
+            "genreId":"6",
+            "name":"Country",
+            "url":"https://itunes.apple.com/us/genre/id6"
+          },
+          {
+            "genreId":"34",
+            "name":"Music",
+            "url":"https://itunes.apple.com/us/genre/id34"
+          },
+          {
+            "genreId":"21",
+            "name":"Rock",
+            "url":"https://itunes.apple.com/us/genre/id21"
+          },
+          {
+            "genreId":"1037",
+            "name":"Contemporary Country",
+            "url":"https://itunes.apple.com/us/genre/id1037"
+          },
+          {
+            "genreId":"1039",
+            "name":"Honky Tonk",
+            "url":"https://itunes.apple.com/us/genre/id1039"
+          },
+          {
+            "genreId":"14",
+            "name":"Pop",
+            "url":"https://itunes.apple.com/us/genre/id14"
+          },
+          {
+            "genreId":"1133",
+            "name":"Pop/Rock",
+            "url":"https://itunes.apple.com/us/genre/id1133"
+          }
+        ],
+        "url":"https://music.apple.com/us/album/old-dominion/1476032694?app=itunes"
+      },
+      {
+        "artistName":"The Smiths",
+        "id":"800092985",
+        "releaseDate":"1986-06-16",
+        "name":"The Queen Is Dead",
+        "kind":"album",
+        "copyright":"℗ 2014 Rhino UK a division of Warner Music UK Ltd.",
+        "artistId":"829538",
+        "artistUrl":"https://music.apple.com/us/artist/the-smiths/829538?app=itunes",
+        "artworkUrl100":"https://is4-ssl.mzstatic.com/image/thumb/Music6/v4/96/55/da/9655da6b-6953-b732-501f-759ae260a926/745099189662.jpg/200x200bb.png",
+        "genres":[
+          {
+            "genreId":"20",
+            "name":"Alternative",
+            "url":"https://itunes.apple.com/us/genre/id20"
+          },
+          {
+            "genreId":"34",
+            "name":"Music",
+            "url":"https://itunes.apple.com/us/genre/id34"
+          },
+          {
+            "genreId":"21",
+            "name":"Rock",
+            "url":"https://itunes.apple.com/us/genre/id21"
+          },
+          {
+            "genreId":"1144",
+            "name":"Adult Alternative",
+            "url":"https://itunes.apple.com/us/genre/id1144"
+          },
+          {
+            "genreId":"1001",
+            "name":"College Rock",
+            "url":"https://itunes.apple.com/us/genre/id1001"
+          },
+          {
+            "genreId":"14",
+            "name":"Pop",
+            "url":"https://itunes.apple.com/us/genre/id14"
+          },
+          {
+            "genreId":"1133",
+            "name":"Pop/Rock",
+            "url":"https://itunes.apple.com/us/genre/id1133"
+          }
+        ],
+        "url":"https://music.apple.com/us/album/the-queen-is-dead/800092985?app=itunes"
+      },
+      {
+        "artistName":"Led Zeppelin",
+        "id":"1052497413",
+        "releaseDate":"2007-11-09",
+        "name":"Mothership (Remastered)",
+        "kind":"album",
+        "copyright":"℗ 2007 Atlantic Recording Corporation, a Warner Music Group Company.",
+        "artistId":"994656",
+        "artistUrl":"https://music.apple.com/us/artist/led-zeppelin/994656?app=itunes",
+        "artworkUrl100":"https://is3-ssl.mzstatic.com/image/thumb/Music62/v4/7e/17/e3/7e17e33f-2efa-2a36-e916-7f808576cf6b/mzm.fyigqcbs.jpg/200x200bb.png",
+        "genres":[
+          {
+            "genreId":"21",
+            "name":"Rock",
+            "url":"https://itunes.apple.com/us/genre/id21"
+          },
+          {
+            "genreId":"34",
+            "name":"Music",
+            "url":"https://itunes.apple.com/us/genre/id34"
+          },
+          {
+            "genreId":"2",
+            "name":"Blues",
+            "url":"https://itunes.apple.com/us/genre/id2"
+          },
+          {
+            "genreId":"1011",
+            "name":"Country Blues",
+            "url":"https://itunes.apple.com/us/genre/id1011"
+          },
+          {
+            "genreId":"1147",
+            "name":"Blues-Rock",
+            "url":"https://itunes.apple.com/us/genre/id1147"
+          },
+          {
+            "genreId":"1146",
+            "name":"Arena Rock",
+            "url":"https://itunes.apple.com/us/genre/id1146"
+          },
+          {
+            "genreId":"1152",
+            "name":"Hard Rock",
+            "url":"https://itunes.apple.com/us/genre/id1152"
+          },
+          {
+            "genreId":"1153",
+            "name":"Metal",
+            "url":"https://itunes.apple.com/us/genre/id1153"
+          }
+        ],
+        "url":"https://music.apple.com/us/album/mothership-remastered/1052497413?app=itunes"
+      },
+      {
+        "artistName":"Breaking Benjamin",
+        "id":"1484422635",
+        "releaseDate":"2020-01-24",
+        "name":"Aurora",
+        "kind":"album",
+        "copyright":"℗ 2020 Hollywood Records, Inc.",
+        "artistId":"3299379",
+        "artistUrl":"https://music.apple.com/us/artist/breaking-benjamin/3299379?app=itunes",
+        "artworkUrl100":"https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/59/7e/51/597e5166-d6c8-ac39-8217-74d6cd9baaa6/19UMGIM94144.rgb.jpg/200x200bb.png",
+        "genres":[
+          {
+            "genreId":"21",
+            "name":"Rock",
+            "url":"https://itunes.apple.com/us/genre/id21"
+          },
+          {
+            "genreId":"34",
+            "name":"Music",
+            "url":"https://itunes.apple.com/us/genre/id34"
+          }
+        ],
+        "url":"https://music.apple.com/us/album/aurora/1484422635?app=itunes"
+      },
+      {
+        "artistName":"We The Kingdom",
+        "id":"1483259074",
+        "releaseDate":"2019-10-25",
+        "name":"Live At the Wheelhouse - EP",
+        "kind":"album",
+        "copyright":"Sparrow Records; ℗ 2019 Capitol CMG, Inc.",
+        "artistId":"1475309106",
+        "artistUrl":"https://music.apple.com/us/artist/we-the-kingdom/1475309106?app=itunes",
+        "artworkUrl100":"https://is2-ssl.mzstatic.com/image/thumb/Music113/v4/bd/e6/20/bde62033-9983-10b0-3416-8fb8b86009c1/19UMGIM90381.rgb.jpg/200x200bb.png",
+        "genres":[
+          {
+            "genreId":"22",
+            "name":"Christian \\u{0026} Gospel",
+            "url":"https://itunes.apple.com/us/genre/id22"
+          },
+          {
+            "genreId":"34",
+            "name":"Music",
+            "url":"https://itunes.apple.com/us/genre/id34"
+          }
+        ],
+        "url":"https://music.apple.com/us/album/live-at-the-wheelhouse-ep/1483259074?app=itunes"
+      },
+      {
+        "artistName":"The Black Keys",
+        "id":"1052967338",
+        "releaseDate":"2008-04-01",
+        "name":"Attack \\u{0026} Release",
+        "kind":"album",
+        "copyright":"℗ 2008 Nonesuch Records, Inc.",
+        "artistId":"5893059",
+        "artistUrl":"https://music.apple.com/us/artist/the-black-keys/5893059?app=itunes",
+        "artworkUrl100":"https://is3-ssl.mzstatic.com/image/thumb/Music22/v4/a9/97/f5/a997f527-56b4-ee78-ff7a-63f581ad9dc0/mzm.siykkkba.jpg/200x200bb.png",
+        "genres":[
+          {
+            "genreId":"20",
+            "name":"Alternative",
+            "url":"https://itunes.apple.com/us/genre/id20"
+          },
+          {
+            "genreId":"34",
+            "name":"Music",
+            "url":"https://itunes.apple.com/us/genre/id34"
+          },
+          {
+            "genreId":"21",
+            "name":"Rock",
+            "url":"https://itunes.apple.com/us/genre/id21"
+          },
+          {
+            "genreId":"1144",
+            "name":"Adult Alternative",
+            "url":"https://itunes.apple.com/us/genre/id1144"
+          },
+          {
+            "genreId":"1004",
+            "name":"Indie Rock",
+            "url":"https://itunes.apple.com/us/genre/id1004"
+          },
+          {
+            "genreId":"1006",
+            "name":"Punk",
+            "url":"https://itunes.apple.com/us/genre/id1006"
+          },
+          {
+            "genreId":"1147",
+            "name":"Blues-Rock",
+            "url":"https://itunes.apple.com/us/genre/id1147"
+          }
+        ],
+        "url":"https://music.apple.com/us/album/attack-release/1052967338?app=itunes"
+      },
+      {
+        "artistName":"Guns N' Roses",
+        "id":"1390048449",
+        "releaseDate":"2004-03-23",
+        "name":"Greatest Hits",
+        "kind":"album",
+        "copyright":"A Geffen Records Release; This Compilation ℗ 2004 UMG Recordings, Inc.",
+        "artistId":"106621",
+        "artistUrl":"https://music.apple.com/us/artist/guns-n-roses/106621?app=itunes",
+        "artworkUrl100":"https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/4a/ae/bd/4aaebde0-d448-2163-2a49-1ca57e32c571/00602567756798.rgb.jpg/200x200bb.png",
+        "genres":[
+          {
+            "genreId":"1152",
+            "name":"Hard Rock",
+            "url":"https://itunes.apple.com/us/genre/id1152"
+          },
+          {
+            "genreId":"34",
+            "name":"Music",
+            "url":"https://itunes.apple.com/us/genre/id34"
+          },
+          {
+            "genreId":"21",
+            "name":"Rock",
+            "url":"https://itunes.apple.com/us/genre/id21"
+          },
+          {
+            "genreId":"1146",
+            "name":"Arena Rock",
+            "url":"https://itunes.apple.com/us/genre/id1146"
+          },
+          {
+            "genreId":"1153",
+            "name":"Metal",
+            "url":"https://itunes.apple.com/us/genre/id1153"
+          }
+        ],
+        "url":"https://music.apple.com/us/album/greatest-hits/1390048449?app=itunes"
+      },
+      {
+        "artistName":"AC/DC",
+        "id":"574050396",
+        "releaseDate":"1980-07-25",
+        "name":"Back In Black",
+        "kind":"album",
+        "copyright":"℗ 1980 Leidseplein Presse B.V.",
+        "artistId":"5040714",
+        "artistUrl":"https://music.apple.com/us/artist/ac-dc/5040714?app=itunes",
+        "artworkUrl100":"https://is1-ssl.mzstatic.com/image/thumb/Music/v4/18/c1/a4/18c1a4f8-3f50-9ba4-bdf9-b4148efa0564/886443673441.jpg/200x200bb.png",
+        "genres":[
+          {
+            "genreId":"1152",
+            "name":"Hard Rock",
+            "url":"https://itunes.apple.com/us/genre/id1152"
+          },
+          {
+            "genreId":"34",
+            "name":"Music",
+            "url":"https://itunes.apple.com/us/genre/id34"
+          },
+          {
+            "genreId":"21",
+            "name":"Rock",
+            "url":"https://itunes.apple.com/us/genre/id21"
+          },
+          {
+            "genreId":"19",
+            "name":"World",
+            "url":"https://itunes.apple.com/us/genre/id19"
+          },
+          {
+            "genreId":"1200",
+            "name":"Australia",
+            "url":"https://itunes.apple.com/us/genre/id1200"
+          },
+          {
+            "genreId":"1146",
+            "name":"Arena Rock",
+            "url":"https://itunes.apple.com/us/genre/id1146"
+          },
+          {
+            "genreId":"1153",
+            "name":"Metal",
+            "url":"https://itunes.apple.com/us/genre/id1153"
+          }
+        ],
+        "url":"https://music.apple.com/us/album/back-in-black/574050396?app=itunes"
+      },
+      {
+        "artistName":"London Philharmonic Orchestra \\u{0026} David Parry",
+        "id":"339006385",
+        "releaseDate":"2009-12-01",
+        "name":"The 50 Greatest Pieces of Classical Music",
+        "kind":"album",
+        "copyright":"℗ 2009 X5 Music Group",
+        "artistId":"498052",
+        "artistUrl":"https://music.apple.com/WebObjects/MZStore.woa/wa/viewCollaboration?cc=us\\u{0026}ids=498052-4249691\\u{0026}app=itunes",
+        "artworkUrl100":"https://is3-ssl.mzstatic.com/image/thumb/Music/48/84/07/mzi.mqgtsqwd.jpg/200x200bb.png",
+        "genres":[
+          {
+            "genreId":"5",
+            "name":"Classical",
+            "url":"https://itunes.apple.com/us/genre/id5"
+          },
+          {
+            "genreId":"34",
+            "name":"Music",
+            "url":"https://itunes.apple.com/us/genre/id34"
+          },
+          {
+            "genreId":"9",
+            "name":"Opera",
+            "url":"https://itunes.apple.com/us/genre/id9"
+          },
+          {
+            "genreId":"16",
+            "name":"Soundtrack",
+            "url":"https://itunes.apple.com/us/genre/id16"
+          },
+          {
+            "genreId":"1166",
+            "name":"Musicals",
+            "url":"https://itunes.apple.com/us/genre/id1166"
+          },
+          {
+            "genreId":"1022",
+            "name":"Classical Crossover",
+            "url":"https://itunes.apple.com/us/genre/id1022"
+          },
+          {
+            "genreId":"1169",
+            "name":"Soundtrack",
+            "url":"https://itunes.apple.com/us/genre/id1169"
+          }
+        ],
+        "url":"https://music.apple.com/us/album/the-50-greatest-pieces-of-classical-music/339006385?app=itunes"
+      },
+      {
+        "artistName":"Bob Seger \\u{0026} The Silver Bullet Band",
+        "id":"1440879556",
+        "releaseDate":"1994-10-25",
+        "name":"Greatest Hits",
+        "kind":"album",
+        "copyright":"This Compilation ℗ 1994 Hideout Records \\u{0026} Distributors, Inc., under exclusive license to Capitol Records LLC",
+        "artistId":"180478133",
+        "artistUrl":"https://music.apple.com/us/artist/bob-seger-the-silver-bullet-band/180478133?app=itunes",
+        "artworkUrl100":"https://is2-ssl.mzstatic.com/image/thumb/Music118/v4/d5/96/e5/d596e556-ed06-0d21-141c-c7acab9b54f8/00602557747065.rgb.jpg/200x200bb.png",
+        "genres":[
+          {
+            "genreId":"21",
+            "name":"Rock",
+            "url":"https://itunes.apple.com/us/genre/id21"
+          },
+          {
+            "genreId":"34",
+            "name":"Music",
+            "url":"https://itunes.apple.com/us/genre/id34"
+          },
+          {
+            "genreId":"1152",
+            "name":"Hard Rock",
+            "url":"https://itunes.apple.com/us/genre/id1152"
+          },
+          {
+            "genreId":"1146",
+            "name":"Arena Rock",
+            "url":"https://itunes.apple.com/us/genre/id1146"
+          },
+          {
+            "genreId":"1157",
+            "name":"Rock \\u{0026} Roll",
+            "url":"https://itunes.apple.com/us/genre/id1157"
+          }
+        ],
+        "url":"https://music.apple.com/us/album/greatest-hits/1440879556?app=itunes"
+      },
+      {
+        "artistName":"Country Music Ensemble",
+        "id":"1490214986",
+        "releaseDate":"2019-12-03",
+        "name":"Garth Brooks Greatest Hits: Cover Tribute Album, Vol. 2",
+        "kind":"album",
+        "copyright":"℗ 2019 Country Recordings Inc.",
+        "artistId":"1490214987",
+        "artistUrl":"https://music.apple.com/us/artist/country-music-ensemble/1490214987?app=itunes",
+        "artworkUrl100":"https://is5-ssl.mzstatic.com/image/thumb/Music113/v4/e5/72/fb/e572fbcc-f8ba-f9b9-68a9-7f888204920c/XELMOB20315.jpg/200x200bb.png",
+        "genres":[
+          {
+            "genreId":"6",
+            "name":"Country",
+            "url":"https://itunes.apple.com/us/genre/id6"
+          },
+          {
+            "genreId":"34",
+            "name":"Music",
+            "url":"https://itunes.apple.com/us/genre/id34"
+          }
+        ],
+        "url":"https://music.apple.com/us/album/garth-brooks-greatest-hits-cover-tribute-album-vol-2/1490214986?app=itunes"
+      },
+      {
+        "artistName":"Lynyrd Skynyrd",
+        "id":"1413948379",
+        "releaseDate":"2000-03-14",
+        "name":"All Time Greatest Hits",
+        "kind":"album",
+        "copyright":"A Geffen Records release; This Compilation ℗ 2000 UMG Recordings, Inc.",
+        "artistId":"97262",
+        "artistUrl":"https://music.apple.com/us/artist/lynyrd-skynyrd/97262?app=itunes",
+        "artworkUrl100":"https://is5-ssl.mzstatic.com/image/thumb/Music118/v4/29/69/79/29697921-9d5f-9b88-39e9-1b43ee882010/00602567823773.rgb.jpg/200x200bb.png",
+        "genres":[
+          {
+            "genreId":"21",
+            "name":"Rock",
+            "url":"https://itunes.apple.com/us/genre/id21"
+          },
+          {
+            "genreId":"34",
+            "name":"Music",
+            "url":"https://itunes.apple.com/us/genre/id34"
+          },
+          {
+            "genreId":"1152",
+            "name":"Hard Rock",
+            "url":"https://itunes.apple.com/us/genre/id1152"
+          },
+          {
+            "genreId":"1147",
+            "name":"Blues-Rock",
+            "url":"https://itunes.apple.com/us/genre/id1147"
+          },
+          {
+            "genreId":"1146",
+            "name":"Arena Rock",
+            "url":"https://itunes.apple.com/us/genre/id1146"
+          },
+          {
+            "genreId":"1161",
+            "name":"Southern Rock",
+            "url":"https://itunes.apple.com/us/genre/id1161"
+          },
+          {
+            "genreId":"1157",
+            "name":"Rock \\u{0026} Roll",
+            "url":"https://itunes.apple.com/us/genre/id1157"
+          }
+        ],
+        "url":"https://music.apple.com/us/album/all-time-greatest-hits/1413948379?app=itunes"
+      },
+      {
+        "artistName":"Adele",
+        "id":"420075073",
+        "releaseDate":"2011-01-24",
+        "name":"21",
+        "kind":"album",
+        "copyright":"℗ 2010 XL Recordings Ltd",
+        "artistId":"262836961",
+        "artistUrl":"https://music.apple.com/us/artist/adele/262836961?app=itunes",
+        "artworkUrl100":"https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/1c/c1/7c/1cc17c9f-a2f3-db00-6981-f583c1be9b88/884977834734.jpg/200x200bb.png",
+        "genres":[
+          {
+            "genreId":"14",
+            "name":"Pop",
+            "url":"https://itunes.apple.com/us/genre/id14"
+          },
+          {
+            "genreId":"34",
+            "name":"Music",
+            "url":"https://itunes.apple.com/us/genre/id34"
+          },
+          {
+            "genreId":"15",
+            "name":"R\\u{0026}B/Soul",
+            "url":"https://itunes.apple.com/us/genre/id15"
+          },
+          {
+            "genreId":"1141",
+            "name":"Neo-Soul",
+            "url":"https://itunes.apple.com/us/genre/id1141"
+          },
+          {
+            "genreId":"21",
+            "name":"Rock",
+            "url":"https://itunes.apple.com/us/genre/id21"
+          },
+          {
+            "genreId":"1144",
+            "name":"Adult Alternative",
+            "url":"https://itunes.apple.com/us/genre/id1144"
+          },
+          {
+            "genreId":"1143",
+            "name":"Soul",
+            "url":"https://itunes.apple.com/us/genre/id1143"
+          }
+        ],
+        "url":"https://music.apple.com/us/album/21/420075073?app=itunes"
+      },
+      {
+        "artistName":"The Hu",
+        "id":"1463672190",
+        "releaseDate":"2019-09-13",
+        "name":"The Gereg",
+        "kind":"album",
+        "copyright":"℗ 2019 Eleven Seven Music",
+        "artistId":"391885107",
+        "artistUrl":"https://music.apple.com/us/artist/the-hu/391885107?app=itunes",
+        "artworkUrl100":"https://is3-ssl.mzstatic.com/image/thumb/Music123/v4/93/aa/40/93aa40d4-c64b-cbbf-d192-ef59a9101ed0/849320055303.png/200x200bb.png",
+        "genres":[
+          {
+            "genreId":"1153",
+            "name":"Metal",
+            "url":"https://itunes.apple.com/us/genre/id1153"
+          },
+          {
+            "genreId":"34",
+            "name":"Music",
+            "url":"https://itunes.apple.com/us/genre/id34"
+          },
+          {
+            "genreId":"21",
+            "name":"Rock",
+            "url":"https://itunes.apple.com/us/genre/id21"
+          }
+        ],
+        "url":"https://music.apple.com/us/album/the-gereg/1463672190?app=itunes"
+      },
+      {
+        "artistName":"Fleetwood Mac",
+        "id":"594061854",
+        "releaseDate":"1977-02-04",
+        "name":"Rumours",
+        "kind":"album",
+        "copyright":"℗ 2004 Warner Records Inc.",
+        "artistId":"158038",
+        "artistUrl":"https://music.apple.com/us/artist/fleetwood-mac/158038?app=itunes",
+        "artworkUrl100":"https://is3-ssl.mzstatic.com/image/thumb/Music/v4/f6/b5/b2/f6b5b2f0-6b11-fcb2-1b51-0f89ccb545b0/081227970949.jpg/200x200bb.png",
+        "genres":[
+          {
+            "genreId":"21",
+            "name":"Rock",
+            "url":"https://itunes.apple.com/us/genre/id21"
+          },
+          {
+            "genreId":"34",
+            "name":"Music",
+            "url":"https://itunes.apple.com/us/genre/id34"
+          },
+          {
+            "genreId":"1146",
+            "name":"Arena Rock",
+            "url":"https://itunes.apple.com/us/genre/id1146"
+          },
+          {
+            "genreId":"14",
+            "name":"Pop",
+            "url":"https://itunes.apple.com/us/genre/id14"
+          },
+          {
+            "genreId":"1133",
+            "name":"Pop/Rock",
+            "url":"https://itunes.apple.com/us/genre/id1133"
+          },
+          {
+            "genreId":"1134",
+            "name":"Soft Rock",
+            "url":"https://itunes.apple.com/us/genre/id1134"
+          }
+        ],
+        "url":"https://music.apple.com/us/album/rumours/594061854?app=itunes"
+      },
+      {
+        "artistName":"for KING \\u{0026} COUNTRY",
+        "id":"1398353335",
+        "releaseDate":"2018-10-05",
+        "name":"Burn The Ships",
+        "kind":"album",
+        "copyright":"℗ 2018 Curb | Word Entertainment. 25 Music Square West, Nashville, TN 37203",
+        "artistId":"457871289",
+        "artistUrl":"https://music.apple.com/us/artist/for-king-country/457871289?app=itunes",
+        "artworkUrl100":"https://is3-ssl.mzstatic.com/image/thumb/Music118/v4/66/7c/70/667c70db-eb97-9c59-773d-2b080e2a3cf0/080688962463.png/200x200bb.png",
+        "genres":[
+          {
+            "genreId":"22",
+            "name":"Christian \\u{0026} Gospel",
+            "url":"https://itunes.apple.com/us/genre/id22"
+          },
+          {
+            "genreId":"34",
+            "name":"Music",
+            "url":"https://itunes.apple.com/us/genre/id34"
+          },
+          {
+            "genreId":"1101",
+            "name":"Gospel",
+            "url":"https://itunes.apple.com/us/genre/id1101"
+          },
+          {
+            "genreId":"1094",
+            "name":"CCM",
+            "url":"https://itunes.apple.com/us/genre/id1094"
+          },
+          {
+            "genreId":"21",
+            "name":"Rock",
+            "url":"https://itunes.apple.com/us/genre/id21"
+          },
+          {
+            "genreId":"1144",
+            "name":"Adult Alternative",
+            "url":"https://itunes.apple.com/us/genre/id1144"
+          }
+        ],
+        "url":"https://music.apple.com/us/album/burn-the-ships/1398353335?app=itunes"
+      },
+      {
+        "artistName":"Various Artists",
+        "id":"1434903427",
+        "releaseDate":"2015-12-18",
+        "name":"20 #1’s: 80's Pop",
+        "kind":"album",
+        "copyright":"A Universal Music Enterprises; This Compilation ℗ 2015 UMG Recordings, Inc.",
+        "artistId":"36270",
+        "artistUrl":"https://music.apple.com/us/artist/various-artists/36270?app=itunes",
+        "artworkUrl100":"https://is4-ssl.mzstatic.com/image/thumb/Music118/v4/45/8a/06/458a066d-5b41-4226-aaec-cecaf3e53784/00602567833895.rgb.jpg/200x200bb.png",
+        "genres":[
+          {
+            "genreId":"14",
+            "name":"Pop",
+            "url":"https://itunes.apple.com/us/genre/id14"
+          },
+          {
+            "genreId":"34",
+            "name":"Music",
+            "url":"https://itunes.apple.com/us/genre/id34"
+          }
+        ],
+        "url":"https://music.apple.com/us/album/20-1s-80s-pop/1434903427?app=itunes"
+      },
+      {
+        "artistName":"Neil Young",
+        "id":"72796976",
+        "releaseDate":"1992-10-27",
+        "name":"Harvest Moon",
+        "kind":"album",
+        "copyright":"℗ 1992 Reprise Records for the U.S. and WEA International Inc. for the world outside of the U.S.",
+        "artistId":"147370",
+        "artistUrl":"https://music.apple.com/us/artist/neil-young/147370?app=itunes",
+        "artworkUrl100":"https://is1-ssl.mzstatic.com/image/thumb/Music/y2005/m06/d15/h08/s07.myunuhwl.jpg/200x200bb.png",
+        "genres":[
+          {
+            "genreId":"20",
+            "name":"Alternative",
+            "url":"https://itunes.apple.com/us/genre/id20"
+          },
+          {
+            "genreId":"34",
+            "name":"Music",
+            "url":"https://itunes.apple.com/us/genre/id34"
+          },
+          {
+            "genreId":"14",
+            "name":"Pop",
+            "url":"https://itunes.apple.com/us/genre/id14"
+          },
+          {
+            "genreId":"21",
+            "name":"Rock",
+            "url":"https://itunes.apple.com/us/genre/id21"
+          },
+          {
+            "genreId":"1161",
+            "name":"Southern Rock",
+            "url":"https://itunes.apple.com/us/genre/id1161"
+          },
+          {
+            "genreId":"1160",
+            "name":"Singer/Songwriter",
+            "url":"https://itunes.apple.com/us/genre/id1160"
+          },
+          {
+            "genreId":"10",
+            "name":"Singer/Songwriter",
+            "url":"https://itunes.apple.com/us/genre/id10"
+          },
+          {
+            "genreId":"1065",
+            "name":"Folk-Rock",
+            "url":"https://itunes.apple.com/us/genre/id1065"
+          },
+          {
+            "genreId":"1146",
+            "name":"Arena Rock",
+            "url":"https://itunes.apple.com/us/genre/id1146"
+          },
+          {
+            "genreId":"1156",
+            "name":"Psychedelic",
+            "url":"https://itunes.apple.com/us/genre/id1156"
+          }
+        ],
+        "url":"https://music.apple.com/us/album/harvest-moon/72796976?app=itunes"
+      }
+    ]
+  }
+}
