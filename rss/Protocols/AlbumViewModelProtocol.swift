@@ -4,7 +4,7 @@
 
 import Foundation
 
-protocol AlbumViewModel {
+protocol AlbumViewModelProtocol {
 
     init(_ album: Album)
 

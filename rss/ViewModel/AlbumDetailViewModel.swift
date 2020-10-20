@@ -4,7 +4,7 @@
 
 import Foundation
 
-final class AlbumDetailViewModel: AlbumViewModel {
+final class AlbumDetailViewModel: AlbumViewModelProtocol {
 
     init(_ album: Album) {
         self.album = album

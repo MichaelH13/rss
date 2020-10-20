@@ -95,11 +95,11 @@ public class Client {
             } else if response == nil {
                 Logger.log(.warning, message: "nil response")
                 success = false
-            } else if response as? HTTPURLResponse != nil {
+            } else if response as? HTTPURLResponse == nil {
                 Logger.log(.warning, message: "Not an HTTP response")
                 success = false
             } else if let response = response as? HTTPURLResponse,
-                response.statusCode == .ok {
+                      response.statusCode != .ok {
                 Logger.log(.warning, message: "Not a 200 (OK) response")
                 success = false
             } else if data == nil {

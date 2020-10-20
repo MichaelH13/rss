@@ -4,7 +4,7 @@
 
 import Foundation
 
-final class AlbumCellViewModel: AlbumViewModel {
+final class AlbumCellViewModel: AlbumViewModelProtocol {
 
     // MARK: - Inits
 
